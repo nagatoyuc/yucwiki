@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #53cca6;
+  background: #3ef26f;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2892,4 +2892,61 @@ ul.breadcrumb li + li:last-child {
   background: #333;
   color: #fff;
   line-height: 1.6em;
+}
+.play_a {
+  color: #fff;
+  background: #99c0c0;
+  text-align: left;
+  font-size: 1.2em;
+  padding: 0.2em;
+  color: #000;
+  line-height: 1em;
+}
+.play_a_s {
+  width: 80px;
+  color: #fff;
+  background: #99c0c0;
+  text-align: center;
+  font-size: 1em;
+  padding: 0.2em;
+  color: #000;
+  line-height: 1em;
+}
+.play_b {
+  color: #fff;
+  background: #33c0c0;
+  text-align: left;
+  font-size: 1.2em;
+  padding: 0.2em;
+  color: #000;
+  line-height: 1em;
+}
+.play_b_s {
+  width: 80px;
+  color: #fff;
+  background: #33c0c0;
+  text-align: center;
+  font-size: 1em;
+  padding: 0.2em;
+  color: #000;
+  line-height: 1em;
+}
+.play_platform {
+  color: #000;
+  text-align: center;
+  font-size: 0.8em;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  padding-right: 0.5em;
+  padding-right: 0.5em;
+  line-height: 1em;
+  height: 60px;
+}
+.play_img {
+  vertical-align: top;
+  outline-width: 0px;
+  font-size: 0em;
+  padding-top: 0em;
+  line-height: 0em;
+  height: 60px;
 }
