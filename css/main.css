@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #f221a8;
+  background: #c222c8;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2904,9 +2904,18 @@ ul.breadcrumb li + li:last-child {
 }
 .play_a {
   color: #fff;
-  background: #99c0c0;
+  background: #dcdcdc;
   text-align: left;
-  font-size: 1.2em;
+  font-size: 1.1em;
+  padding: 0.2em;
+  color: #000;
+  line-height: 1em;
+}
+.play_a_ {
+  color: #fff;
+  background: #dcdcdc;
+  text-align: left;
+  font-size: 1em;
   padding: 0.2em;
   color: #000;
   line-height: 1em;
@@ -2914,18 +2923,27 @@ ul.breadcrumb li + li:last-child {
 .play_a_s {
   width: 80px;
   color: #fff;
-  background: #99c0c0;
+  background: #dcdcdc;
   text-align: center;
-  font-size: 1em;
+  font-size: 0.9em;
   padding: 0.2em;
   color: #000;
   line-height: 1em;
 }
 .play_b {
   color: #fff;
-  background: #33c0c0;
+  background: #f5f5f5;
   text-align: left;
-  font-size: 1.2em;
+  font-size: 1.1em;
+  padding: 0.2em;
+  color: #000;
+  line-height: 1em;
+}
+.play_b_ {
+  color: #fff;
+  background: #f5f5f5;
+  text-align: left;
+  font-size: 1em;
   padding: 0.2em;
   color: #000;
   line-height: 1em;
@@ -2933,9 +2951,9 @@ ul.breadcrumb li + li:last-child {
 .play_b_s {
   width: 80px;
   color: #fff;
-  background: #33c0c0;
+  background: #f5f5f5;
   text-align: center;
-  font-size: 1em;
+  font-size: 0.9em;
   padding: 0.2em;
   color: #000;
   line-height: 1em;
