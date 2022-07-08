@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #3e30ff;
+  background: #db1c5e;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2994,4 +2994,71 @@ ul.breadcrumb li + li:last-child {
   padding-top: 0em;
   line-height: 0em;
   height: 60px;
+}
+.date {
+  color: #fff;
+  vertical-align: center;
+  text-align: center;
+  outline-width: 0px;
+  font-size: 1.2em;
+  padding-top: 0em;
+  line-height: 0em;
+  height: 25px;
+  background: #333;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.area {
+  vertical-align: center;
+  text-align: center;
+  color: #960;
+  outline-width: 0px;
+  font-size: 0.9em;
+  padding-top: 0em;
+  line-height: 0em;
+  height: 40px;
+}
+.area_ {
+  vertical-align: center;
+  text-align: center;
+  color: #f00;
+  outline-width: 0px;
+  font-size: 0.9em;
+  padding-top: 0em;
+  line-height: 0em;
+  height: 40px;
+}
+.div_date {
+  vertical-align: center;
+  text-align: center;
+  margin-right: 1px;
+  margin-top: 1px;
+  margin-bottom: -10px;
+}
+.date_title {
+  color: #fff;
+  background: #333;
+  text-align: center;
+  font-size: 1.1em;
+  padding: 0.1em;
+  line-height: 1.1em;
+  height: 2.4em;
+}
+.date_title_ {
+  color: #fff;
+  background: #333;
+  text-align: center;
+  font-size: 0.9em;
+  padding: 0.1em;
+  line-height: 1.3em;
+  height: 2.97em;
+}
+.date_title__ {
+  color: #fff;
+  background: #333;
+  text-align: center;
+  font-size: 0.8em;
+  padding: 0.1em;
+  line-height: 1.1em;
+  height: 3.4em;
 }
