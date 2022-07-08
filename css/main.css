@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffdde4;
+  background: #91afff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -3028,6 +3028,16 @@ ul.breadcrumb li + li:last-child {
   line-height: 0em;
   height: 40px;
 }
+.area__ {
+  vertical-align: center;
+  text-align: center;
+  color: #960;
+  outline-width: 0px;
+  font-size: 0.8em;
+  padding-top: 0em;
+  line-height: 0em;
+  height: 40px;
+}
 .div_date {
   vertical-align: center;
   text-align: center;
@@ -3039,10 +3049,10 @@ ul.breadcrumb li + li:last-child {
   color: #fff;
   background: #333;
   text-align: center;
-  font-size: 1.1em;
+  font-size: 1em;
   padding: 0.1em;
-  line-height: 1.1em;
-  height: 2.4em;
+  line-height: 1.3em;
+  height: 45px;
 }
 .date_title_ {
   color: #fff;
@@ -3051,7 +3061,7 @@ ul.breadcrumb li + li:last-child {
   font-size: 0.9em;
   padding: 0.1em;
   line-height: 1.3em;
-  height: 2.97em;
+  height: 45px;
 }
 .date_title__ {
   color: #fff;
@@ -3059,6 +3069,6 @@ ul.breadcrumb li + li:last-child {
   text-align: center;
   font-size: 0.8em;
   padding: 0.1em;
-  line-height: 1.1em;
-  height: 3.4em;
+  line-height: 1.3em;
+  height: 45px;
 }
