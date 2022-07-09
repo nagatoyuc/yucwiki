@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #91afff;
+  background: #2eb5ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -3008,35 +3008,56 @@ ul.breadcrumb li + li:last-child {
   margin-top: 0px;
   margin-bottom: 0px;
 }
+.tr_area {
+  height: 68px;
+}
+.tr_area_ {
+  height: 136px;
+}
 .area {
   vertical-align: center;
   text-align: center;
   color: #960;
-  outline-width: 0px;
   font-size: 0.9em;
-  padding-top: 0em;
-  line-height: 0em;
-  height: 40px;
+  line-height: 0.5em;
+  margin-bottom: 1px;
+  height: 24px;
 }
 .area_ {
   vertical-align: center;
   text-align: center;
-  color: #f00;
-  outline-width: 0px;
-  font-size: 0.9em;
-  padding-top: 0em;
-  line-height: 0em;
-  height: 40px;
+  color: #960;
+  font-size: 0.8em;
+  line-height: 0.5em;
+  margin-bottom: 1px;
+  height: 24px;
 }
-.area__ {
+.area_c {
   vertical-align: center;
   text-align: center;
-  color: #960;
-  outline-width: 0px;
+  color: #f00;
+  font-size: 0.9em;
+  line-height: 0.5em;
+  margin-bottom: 1px;
+  height: 24px;
+}
+.area_c_ {
+  vertical-align: center;
+  text-align: center;
+  color: #f00;
   font-size: 0.8em;
-  padding-top: 0em;
-  line-height: 0em;
-  height: 40px;
+  line-height: 0.5em;
+  margin-bottom: 1px;
+  height: 24px;
+}
+.area_d {
+  vertical-align: center;
+  text-align: center;
+  color: #008b8b;
+  font-size: 0.9em;
+  line-height: 0.5em;
+  margin-bottom: 1px;
+  height: 24px;
 }
 .div_date {
   vertical-align: center;
@@ -3050,25 +3071,25 @@ ul.breadcrumb li + li:last-child {
   background: #333;
   text-align: center;
   font-size: 1em;
-  padding: 0.1em;
-  line-height: 1.3em;
-  height: 45px;
+  padding: 0em;
+  line-height: 1.2em;
+  height: 48px;
 }
 .date_title_ {
   color: #fff;
   background: #333;
   text-align: center;
   font-size: 0.9em;
-  padding: 0.1em;
-  line-height: 1.3em;
-  height: 45px;
+  padding: 0em;
+  line-height: 1.2em;
+  height: 48px;
 }
 .date_title__ {
   color: #fff;
   background: #333;
   text-align: center;
   font-size: 0.8em;
-  padding: 0.1em;
-  line-height: 1.3em;
-  height: 45px;
+  padding: 0em;
+  line-height: 1.2em;
+  height: 48px;
 }
