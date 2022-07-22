@@ -381,7 +381,7 @@
     <link href="http://yuc.wiki/sp/"/>
     <id>http://yuc.wiki/sp/</id>
     <published>2019-07-09T16:00:00.000Z</published>
-    <updated>2022-07-21T14:12:14.539Z</updated>
+    <updated>2022-07-22T09:02:02.280Z</updated>
     
     <summary type="html">
     
@@ -404,11 +404,11 @@
   </entry>
   
   <entry>
-    <title>日本动画电影-大陆院线档期</title>
+    <title>日本动画电影-内地院线档期</title>
     <link href="http://yuc.wiki/movie/"/>
     <id>http://yuc.wiki/movie/</id>
     <published>2019-07-07T16:00:00.000Z</published>
-    <updated>2021-09-13T19:03:47.064Z</updated>
+    <updated>2022-07-22T10:09:07.246Z</updated>
     
     <summary type="html">
     
@@ -427,6 +427,36 @@
     </summary>
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>2022年10月新番表</title>
+    <link href="http://yuc.wiki/202210/"/>
+    <id>http://yuc.wiki/202210/</id>
+    <published>2000-04-30T16:00:00.000Z</published>
+    <updated>2022-07-22T10:25:20.891Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="2022年10月新番动画" scheme="http://yuc.wiki/tags/2022%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
     
   </entry>
   
