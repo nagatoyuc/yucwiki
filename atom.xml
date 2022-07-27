@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yuc.wiki/"/>
-  <updated>2022-07-26T12:01:02.493Z</updated>
+  <updated>2022-07-27T10:17:59.708Z</updated>
   <id>http://yuc.wiki/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yuc.wiki/202207/"/>
     <id>http://yuc.wiki/202207/</id>
     <published>2022-05-31T16:00:00.000Z</published>
-    <updated>2022-07-26T12:01:02.493Z</updated>
+    <updated>2022-07-27T10:17:59.708Z</updated>
     
     <summary type="html">
     
@@ -377,11 +377,11 @@
   </entry>
   
   <entry>
-    <title>Movie/OVA/OAD/SP etc.</title>
-    <link href="http://yuc.wiki/sp/"/>
-    <id>http://yuc.wiki/sp/</id>
-    <published>2019-07-09T16:00:00.000Z</published>
-    <updated>2022-07-22T11:24:57.966Z</updated>
+    <title>日本动画电影-内地院线档期</title>
+    <link href="http://yuc.wiki/movie/"/>
+    <id>http://yuc.wiki/movie/</id>
+    <published>2019-07-07T16:00:00.000Z</published>
+    <updated>2022-07-22T10:09:07.246Z</updated>
     
     <summary type="html">
     
@@ -404,11 +404,11 @@
   </entry>
   
   <entry>
-    <title>日本动画电影-内地院线档期</title>
-    <link href="http://yuc.wiki/movie/"/>
-    <id>http://yuc.wiki/movie/</id>
-    <published>2019-07-07T16:00:00.000Z</published>
-    <updated>2022-07-22T10:09:07.246Z</updated>
+    <title>Movie/OVA/OAD/SP etc.</title>
+    <link href="http://yuc.wiki/sp/"/>
+    <id>http://yuc.wiki/sp/</id>
+    <published>2018-07-09T16:00:00.000Z</published>
+    <updated>2022-07-27T09:46:56.490Z</updated>
     
     <summary type="html">
     
@@ -418,9 +418,13 @@
         
           &lt;!DOCTYPE html&gt;
 &lt;html&gt;
-    &lt;head&gt;
-    &lt;title&gt;&lt;/title&gt;
-    &lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
+&lt;head&gt;
+
+
+&lt;details&gt;&lt;summary&gt;&lt;p class=&quot;intro_sp&quot;&gt;&lt;b&gt;-----2022年9月-----&lt;/b&gt;&lt;/p&gt;&lt;/summary&gt;
+
+&lt;div&gt;
+&lt;div
         
       
     

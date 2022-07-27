@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #33ffbd;
+  background: #ddcde7;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2833,6 +2833,12 @@ ul.breadcrumb li + li:last-child {
 .intro {
   font-size: 1em;
   line-height: 1.5em;
+}
+.intro_sp {
+  color: #fff;
+  background: #333;
+  font-size: 1em;
+  line-height: 2em;
 }
 .div_sp {
   margin-right: 10px;
