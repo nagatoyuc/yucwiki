@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #a8606b;
+  background: #30650e;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2608,6 +2608,15 @@ ul.breadcrumb li + li:last-child {
   padding-left: 0.25em;
   color: #f0f0f0;
 }
+.title_cn_br_ {
+  padding: 0.2em;
+  text-align: left;
+  font-size: 1.4em;
+  line-height: 1.4em;
+  font-weight: bold;
+  padding-left: 0.25em;
+  color: #f0f0f0;
+}
 .title_jp {
   padding: 0.2em;
   text-align: left;
@@ -2632,10 +2641,20 @@ ul.breadcrumb li + li:last-child {
 .title_jp_br {
   padding: 0.2em;
   text-align: left;
-  line-height: 1.5em;
+  line-height: 1.4em;
   font-size: 1.1em;
   padding-top: 0;
   padding-left: 0.5em;
+  color: #e0e0e0;
+}
+.title_jp_br_ {
+  padding: 0.1em;
+  text-align: left;
+  line-height: 1.2em;
+  font-size: 0.9em;
+  padding-top: 0;
+  padding-left: 0.5em;
+  padding-bottom: 0.5em;
   color: #e0e0e0;
 }
 .type_tag {
@@ -3168,4 +3187,194 @@ ul.breadcrumb li + li:last-child {
 .videopr_ {
   text-align: center;
   line-height: 1em;
+}
+.index_year {
+  color: #fff;
+  background: #333;
+  font-size: 1.5em;
+  text-align: center;
+  width: 120px;
+}
+.index_year_ {
+  color: #fff;
+  background: #555;
+  font-size: 1.5em;
+  text-align: center;
+  width: 120px;
+}
+.index_season {
+  font-size: 1.2em;
+  text-align: left;
+  width: 300px;
+  height: 50px;
+  padding-left: 50px;
+}
+.index_other {
+  font-size: 1.5em;
+  text-align: center;
+  width: 300px;
+  height: 100px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  line-height: 1.6em;
+}
+.index_p {
+  color: #fff;
+  text-align: center;
+}
+.future_intro {
+  color: #fff;
+  background: #333;
+  font-size: 1.5em;
+  line-height: 1.8em;
+  padding-left: 0.2em;
+  height: 50px;
+  margin-top: 28px;
+  margin-bottom: -37px;
+}
+.future_div {
+  margin-right: 2px;
+  margin-top: 10px;
+  margin-bottom: -12px;
+}
+.future_date {
+  color: #fff;
+  background: #6a0808;
+  font-size: 0.8em;
+  line-height: 1.2em;
+  position: relative;
+  left: 36px;
+  top: 18px;
+  height: 18px;
+  width: 52px;
+  text-align: center;
+  vertical-align: middle;
+}
+.future_date_ {
+  color: #fff;
+  background: #6a0808;
+  font-size: 0.8em;
+  line-height: 1.2em;
+  position: relative;
+  left: 48px;
+  top: 18px;
+  height: 18px;
+  width: 52px;
+  text-align: center;
+  vertical-align: middle;
+}
+.future_type_a {
+  color: #fff;
+  background: #c03f3f;
+  font-size: 0.8em;
+  line-height: 1.2em;
+  position: relative;
+  left: 0px;
+  top: 36px;
+  height: 18px;
+  width: 36px;
+  text-align: center;
+  vertical-align: middle;
+}
+.future_type_b {
+  color: #fff;
+  background: #178728;
+  font-size: 0.8em;
+  line-height: 1.24em;
+  position: relative;
+  left: 0px;
+  top: 36px;
+  height: 18px;
+  width: 36px;
+  text-align: center;
+  vertical-align: middle;
+}
+.future_type_c {
+  color: #fff;
+  background: #c09c3f;
+  font-size: 0.8em;
+  line-height: 1.2em;
+  position: relative;
+  left: 0px;
+  top: 36px;
+  height: 18px;
+  width: 48px;
+  text-align: center;
+  vertical-align: middle;
+}
+.future_type_d {
+  color: #fff;
+  background: #3f60c0;
+  font-size: 0.8em;
+  line-height: 1.2em;
+  position: relative;
+  left: 0px;
+  top: 36px;
+  height: 18px;
+  width: 48px;
+  text-align: center;
+  vertical-align: middle;
+}
+.future_type_e {
+  color: #fff;
+  background: #ae3fc0;
+  font-size: 0.8em;
+  line-height: 1.2em;
+  position: relative;
+  left: 0px;
+  top: 36px;
+  height: 18px;
+  width: 36px;
+  text-align: center;
+  vertical-align: middle;
+}
+.future_title {
+  width: 150px;
+  color: #fff;
+  background: #333;
+  text-align: center;
+  font-size: 1.2em;
+  line-height: 1.2em;
+}
+.future_title_ {
+  width: 150px;
+  color: #fff;
+  background: #333;
+  text-align: center;
+  font-size: 1.1em;
+  line-height: 1.1em;
+}
+.future_title__ {
+  width: 150px;
+  color: #fff;
+  background: #333;
+  text-align: center;
+  font-size: 1em;
+  line-height: 1.2em;
+}
+.future_title___ {
+  width: 150px;
+  color: #fff;
+  background: #333;
+  text-align: center;
+  font-size: 0.9em;
+  line-height: 1.2em;
+}
+.future_title____ {
+  width: 150px;
+  color: #fff;
+  background: #333;
+  text-align: center;
+  font-size: 0.8em;
+  line-height: 1.2em;
+}
+.future_tr {
+  height: 54px;
+}
+.future_tr_ {
+  height: 20px;
+}
+.future_table {
+  width: 150px;
+  margin-bottom: -35px;
 }
