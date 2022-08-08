@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ab5724;
+  background: #83bfff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -3224,12 +3224,12 @@ ul.breadcrumb li + li:last-child {
 }
 .future_intro {
   color: #fff;
-  background: #333;
+  background: #1d8378;
   font-size: 1.5em;
   line-height: 1.8em;
   padding-left: 0.2em;
   height: 50px;
-  margin-top: 28px;
+  margin-top: 43px;
   margin-bottom: -37px;
 }
 .future_div {
