@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #1cff8b;
+  background: #29fa30;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -3063,7 +3063,7 @@ ul.breadcrumb li + li:last-child {
 }
 .date_ {
   margin-top: 0px;
-  margin-bottom: -15px;
+  margin-bottom: -26px;
 }
 .tr_area {
   height: 68px;
@@ -3116,12 +3116,34 @@ ul.breadcrumb li + li:last-child {
   margin-bottom: 1px;
   height: 24px;
 }
+.area_ex {
+  vertical-align: center;
+  text-align: center;
+  color: #008b8b;
+  font-size: 1em;
+  line-height: 1em;
+  margin-bottom: 1px;
+  height: 24px;
+}
+.tr_area_ex {
+  position: relative;
+  top: -10px;
+}
 .div_date {
   vertical-align: center;
   text-align: center;
   margin-right: 1px;
+  margin-top: -13px;
+  margin-bottom: -9px;
+  font-size: 0.8em;
+}
+.div_date_ {
+  vertical-align: center;
+  text-align: center;
+  margin-right: 1px;
   margin-top: 1px;
-  margin-bottom: -10px;
+  margin-bottom: -9px;
+  font-size: 0.8em;
 }
 .date_title {
   color: #fff;
@@ -3153,12 +3175,11 @@ ul.breadcrumb li + li:last-child {
 .imgtext {
   color: #fff;
   background: #0e6655;
-  font-size: 0.8em;
   line-height: 1.2em;
   position: relative;
   left: 0px;
-  top: 16px;
-  height: 16px;
+  top: 40px;
+  height: 20px;
   width: 40px;
   text-align: left;
   padding-left: 5px;
@@ -3166,15 +3187,34 @@ ul.breadcrumb li + li:last-child {
 .imgtext_ {
   color: #fff;
   background: #0e6655;
-  font-size: 0.8em;
   line-height: 1.2em;
   position: relative;
   left: 0px;
-  top: 16px;
-  width: 50px;
-  height: 16px;
-  text-align: left;
-  padding-left: 5px;
+  top: 40px;
+  height: 20px;
+  width: 52px;
+  text-align: center;
+}
+.imgtext2 {
+  color: #fff;
+  background: #6a0808;
+  line-height: 1.2em;
+  position: relative;
+  left: 0px;
+  top: 40px;
+  height: 20px;
+  width: 52px;
+  text-align: center;
+}
+.imgep {
+  color: #fff;
+  background: #cd5c5c;
+  line-height: 1.2em;
+  position: relative;
+  left: 56px;
+  top: 150px;
+  width: 64px;
+  height: 20px;
 }
 .videopr {
   color: #fff;
