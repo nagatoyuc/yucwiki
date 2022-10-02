@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yuc.wiki/"/>
-  <updated>2022-10-02T10:07:31.498Z</updated>
+  <updated>2022-10-02T16:48:14.703Z</updated>
   <id>http://yuc.wiki/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yuc.wiki/index/"/>
     <id>http://yuc.wiki/index/</id>
     <published>2022-08-04T16:00:00.000Z</published>
-    <updated>2022-10-02T10:07:31.498Z</updated>
+    <updated>2022-10-02T16:48:14.703Z</updated>
     
     <summary type="html">
     
@@ -32,9 +32,9 @@
           &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
+&lt;meta&gt;
 &lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
         
       
     
@@ -49,7 +49,7 @@
     <link href="http://yuc.wiki/202210/"/>
     <id>http://yuc.wiki/202210/</id>
     <published>2022-07-31T16:00:00.000Z</published>
-    <updated>2022-10-02T10:07:26.174Z</updated>
+    <updated>2022-10-02T16:46:28.121Z</updated>
     
     <summary type="html">
     
@@ -60,9 +60,9 @@
           &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
+&lt;meta&gt;
 &lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
         
       
     
@@ -79,7 +79,7 @@
     <link href="http://yuc.wiki/202207/"/>
     <id>http://yuc.wiki/202207/</id>
     <published>2022-05-31T16:00:00.000Z</published>
-    <updated>2022-10-02T10:07:20.776Z</updated>
+    <updated>2022-10-02T16:48:04.705Z</updated>
     
     <summary type="html">
     
@@ -90,9 +90,9 @@
           &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
+&lt;meta&gt;
 &lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
         
       
     
@@ -109,7 +109,7 @@
     <link href="http://yuc.wiki/202204/"/>
     <id>http://yuc.wiki/202204/</id>
     <published>2022-02-28T16:00:00.000Z</published>
-    <updated>2022-10-02T10:07:10.854Z</updated>
+    <updated>2022-10-02T16:47:58.298Z</updated>
     
     <summary type="html">
     
@@ -120,9 +120,9 @@
           &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
+&lt;meta&gt;
 &lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
         
       
     
@@ -139,7 +139,7 @@
     <link href="http://yuc.wiki/202201/"/>
     <id>http://yuc.wiki/202201/</id>
     <published>2021-11-30T16:00:00.000Z</published>
-    <updated>2022-10-02T10:07:05.412Z</updated>
+    <updated>2022-10-02T16:47:52.183Z</updated>
     
     <summary type="html">
     
@@ -150,9 +150,9 @@
           &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
+&lt;meta&gt;
 &lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
         
       
     
@@ -169,7 +169,7 @@
     <link href="http://yuc.wiki/202110/"/>
     <id>http://yuc.wiki/202110/</id>
     <published>2021-08-31T16:00:00.000Z</published>
-    <updated>2022-10-02T10:06:59.374Z</updated>
+    <updated>2022-10-02T16:47:46.917Z</updated>
     
     <summary type="html">
     
@@ -180,9 +180,9 @@
           &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
+&lt;meta&gt;
 &lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
         
       
     
@@ -199,7 +199,7 @@
     <link href="http://yuc.wiki/202107/"/>
     <id>http://yuc.wiki/202107/</id>
     <published>2021-05-31T16:00:00.000Z</published>
-    <updated>2022-10-02T10:06:53.651Z</updated>
+    <updated>2022-10-02T16:47:41.449Z</updated>
     
     <summary type="html">
     
@@ -210,9 +210,9 @@
           &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
+&lt;meta&gt;
 &lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
         
       
     
@@ -229,7 +229,7 @@
     <link href="http://yuc.wiki/202104/"/>
     <id>http://yuc.wiki/202104/</id>
     <published>2021-02-28T16:00:00.000Z</published>
-    <updated>2022-10-02T10:06:48.305Z</updated>
+    <updated>2022-10-02T16:47:35.386Z</updated>
     
     <summary type="html">
     
@@ -240,9 +240,9 @@
           &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
+&lt;meta&gt;
 &lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
         
       
     
@@ -259,7 +259,7 @@
     <link href="http://yuc.wiki/202101/"/>
     <id>http://yuc.wiki/202101/</id>
     <published>2020-11-30T16:00:00.000Z</published>
-    <updated>2022-10-02T10:06:43.114Z</updated>
+    <updated>2022-10-02T16:47:29.411Z</updated>
     
     <summary type="html">
     
@@ -270,9 +270,9 @@
           &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
+&lt;meta&gt;
 &lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
         
       
     
@@ -289,7 +289,7 @@
     <link href="http://yuc.wiki/202010/"/>
     <id>http://yuc.wiki/202010/</id>
     <published>2020-08-06T16:00:00.000Z</published>
-    <updated>2022-10-02T10:06:36.986Z</updated>
+    <updated>2022-10-02T16:47:23.465Z</updated>
     
     <summary type="html">
     
@@ -300,9 +300,9 @@
           &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
+&lt;meta&gt;
 &lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
         
       
     
@@ -319,7 +319,7 @@
     <link href="http://yuc.wiki/202007/"/>
     <id>http://yuc.wiki/202007/</id>
     <published>2020-05-06T16:00:00.000Z</published>
-    <updated>2022-10-02T10:06:31.628Z</updated>
+    <updated>2022-10-02T16:47:15.433Z</updated>
     
     <summary type="html">
     
@@ -330,9 +330,9 @@
           &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
+&lt;meta&gt;
 &lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
         
       
     
@@ -349,7 +349,7 @@
     <link href="http://yuc.wiki/202004/"/>
     <id>http://yuc.wiki/202004/</id>
     <published>2020-02-06T16:00:00.000Z</published>
-    <updated>2022-10-02T10:06:26.319Z</updated>
+    <updated>2022-10-02T16:47:05.888Z</updated>
     
     <summary type="html">
     
@@ -360,9 +360,9 @@
           &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
+&lt;meta&gt;
 &lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
         
       
     
@@ -409,7 +409,7 @@
     <link href="http://yuc.wiki/201910/"/>
     <id>http://yuc.wiki/201910/</id>
     <published>2019-07-13T16:00:00.000Z</published>
-    <updated>2022-10-02T10:06:11.007Z</updated>
+    <updated>2022-10-02T16:46:36.560Z</updated>
     
     <summary type="html">
     
@@ -420,9 +420,9 @@
           &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
+&lt;meta&gt;
 &lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
         
       
     
@@ -439,7 +439,7 @@
     <link href="http://yuc.wiki/movie/"/>
     <id>http://yuc.wiki/movie/</id>
     <published>2019-07-07T16:00:00.000Z</published>
-    <updated>2022-10-02T10:07:36.196Z</updated>
+    <updated>2022-10-02T16:48:19.859Z</updated>
     
     <summary type="html">
     
@@ -450,9 +450,9 @@
           &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
+&lt;meta&gt;
 &lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
         
       
     
@@ -467,7 +467,7 @@
     <link href="http://yuc.wiki/sp/"/>
     <id>http://yuc.wiki/sp/</id>
     <published>2018-07-09T16:00:00.000Z</published>
-    <updated>2022-10-02T10:07:45.559Z</updated>
+    <updated>2022-10-02T16:48:30.254Z</updated>
     
     <summary type="html">
     
@@ -478,7 +478,7 @@
           &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
+&lt;meta&gt;
 &lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
         
       
@@ -494,7 +494,7 @@
     <link href="http://yuc.wiki/new/"/>
     <id>http://yuc.wiki/new/</id>
     <published>2015-07-09T16:00:00.000Z</published>
-    <updated>2022-10-02T10:05:01.356Z</updated>
+    <updated>2022-10-02T16:48:25.797Z</updated>
     
     <summary type="html">
     
@@ -505,7 +505,7 @@
           &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
+&lt;meta&gt;
 &lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
         
       
