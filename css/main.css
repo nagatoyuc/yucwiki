@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #a8ff32;
+  background: #8bba91;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2621,21 +2621,21 @@ ul.breadcrumb li + li:last-child {
   padding: 0.2em;
   text-align: left;
   font-size: 1.1em;
-  padding-left: 0.5em;
+  padding-left: 10px;
   color: #e0e0e0;
 }
 .title_jp_ {
   padding: 0.2em;
   text-align: left;
   font-size: 1em;
-  padding-left: 0.5em;
+  padding-left: 10px;
   color: #e0e0e0;
 }
 .title_jp__ {
   padding: 0.2em;
   text-align: left;
   font-size: 0.8em;
-  padding-left: 0.5em;
+  padding-left: 10px;
   color: #e0e0e0;
 }
 .title_jp_br {
@@ -2644,16 +2644,16 @@ ul.breadcrumb li + li:last-child {
   line-height: 1.4em;
   font-size: 1.1em;
   padding-top: 0;
-  padding-left: 0.5em;
+  padding-left: 10px;
   color: #e0e0e0;
 }
 .title_jp_br_ {
-  padding: 0.1em;
+  padding: 2px;
   text-align: left;
   line-height: 1.2em;
   font-size: 0.9em;
   padding-top: 0;
-  padding-left: 0.5em;
+  padding-left: 10px;
   padding-bottom: 0.5em;
   color: #e0e0e0;
 }
@@ -2663,7 +2663,7 @@ ul.breadcrumb li + li:last-child {
   background: #c0c0c0;
   color: #003;
   font-size: 0.9em;
-  padding: 0.1em;
+  padding: 2px;
   line-height: 1.25em;
 }
 .type_tag_ {
@@ -2672,7 +2672,7 @@ ul.breadcrumb li + li:last-child {
   background: #c0c0c0;
   color: #003;
   font-size: 0.825em;
-  padding: 0.1em;
+  padding: 2px;
   line-height: 1.25em;
 }
 .type_tag__ {
@@ -2690,7 +2690,7 @@ ul.breadcrumb li + li:last-child {
   background: #ce0000;
   color: #f0f0f0;
   font-size: 1.2em;
-  padding: 0.1em;
+  padding: 2px;
   line-height: 1.25em;
 }
 .type_a_ {
@@ -2699,7 +2699,7 @@ ul.breadcrumb li + li:last-child {
   background: #ce0000;
   color: #f0f0f0;
   font-size: 1em;
-  padding: 0.1em;
+  padding: 2px;
   line-height: 1.25em;
 }
 .type_b {
@@ -2708,7 +2708,7 @@ ul.breadcrumb li + li:last-child {
   background: #007979;
   color: #f0f0f0;
   font-size: 1.2em;
-  padding: 0.1em;
+  padding: 2px;
   line-height: 1.25em;
 }
 .type_b_ {
@@ -2717,7 +2717,7 @@ ul.breadcrumb li + li:last-child {
   background: #007979;
   color: #f0f0f0;
   font-size: 1em;
-  padding: 0.1em;
+  padding: 2px;
   line-height: 1.25em;
 }
 .type_b__ {
@@ -2726,7 +2726,7 @@ ul.breadcrumb li + li:last-child {
   background: #007979;
   color: #f0f0f0;
   font-size: 1em;
-  padding: 0.1em;
+  padding: 2px;
   line-height: 1.25em;
 }
 .type_c {
@@ -2735,7 +2735,7 @@ ul.breadcrumb li + li:last-child {
   background: #ea7500;
   color: #f0f0f0;
   font-size: 1.2em;
-  padding: 0.1em;
+  padding: 2px;
   line-height: 1.25em;
 }
 .type_c_ {
@@ -2744,7 +2744,7 @@ ul.breadcrumb li + li:last-child {
   background: #ea7500;
   color: #f0f0f0;
   font-size: 1em;
-  padding: 0.1em;
+  padding: 2px;
   line-height: 1.25em;
 }
 .type_c__ {
@@ -2753,7 +2753,7 @@ ul.breadcrumb li + li:last-child {
   background: #ea7500;
   color: #f0f0f0;
   font-size: 1em;
-  padding: 0.1em;
+  padding: 2px;
   line-height: 1.25em;
 }
 .type_d {
@@ -2762,7 +2762,7 @@ ul.breadcrumb li + li:last-child {
   background: #0072e3;
   color: #f0f0f0;
   font-size: 1.2em;
-  padding: 0.1em;
+  padding: 2px;
   line-height: 1.25em;
 }
 .type_d_ {
@@ -2771,7 +2771,7 @@ ul.breadcrumb li + li:last-child {
   background: #0072e3;
   color: #f0f0f0;
   font-size: 1em;
-  padding: 0.1em;
+  padding: 2px;
   line-height: 1.25em;
 }
 .type_e {
@@ -2780,7 +2780,7 @@ ul.breadcrumb li + li:last-child {
   background: #609;
   color: #f0f0f0;
   font-size: 1.2em;
-  padding: 0.1em;
+  padding: 2px;
   line-height: 1.25em;
 }
 .type_e_ {
@@ -2789,7 +2789,7 @@ ul.breadcrumb li + li:last-child {
   background: #609;
   color: #f0f0f0;
   font-size: 1em;
-  padding: 0.1em;
+  padding: 2px;
   line-height: 1.25em;
 }
 .type_e__ {
@@ -2798,7 +2798,7 @@ ul.breadcrumb li + li:last-child {
   background: #609;
   color: #f0f0f0;
   font-size: 0.8em;
-  padding: 0.1em;
+  padding: 2px;
   line-height: 1.25em;
 }
 .staff {
@@ -2806,26 +2806,26 @@ ul.breadcrumb li + li:last-child {
   vertical-align: top;
   font-size: 1em;
   line-height: 1.25em;
-  padding-top: 0.25em;
-  padding-left: 0.5em;
+  padding-top: 5px;
+  padding-left: 10px;
   width: 210px;
 }
 .cast {
   text-align: left;
   vertical-align: top;
   font-size: 1em;
-  padding-top: 0.25em;
+  padding-top: 5px;
   line-height: 1.25em;
-  padding-left: 0.5em;
+  padding-left: 10px;
   width: 190px;
 }
 .cast_ {
   text-align: left;
   vertical-align: top;
   font-size: 1em;
-  padding-top: 0.25em;
+  padding-top: 5px;
   line-height: 1.25em;
-  padding-left: 0.2em;
+  padding-left: 4px;
   width: 190px;
 }
 .link_a {
@@ -2869,7 +2869,7 @@ ul.breadcrumb li + li:last-child {
   background: #333;
   text-align: center;
   font-size: 1.2em;
-  padding: 0.1em;
+  padding: 2px;
   line-height: 1.3em;
   height: 4.5em;
 }
@@ -2878,7 +2878,7 @@ ul.breadcrumb li + li:last-child {
   background: #333;
   text-align: center;
   font-size: 1.2em;
-  padding: 0.1em;
+  padding: 1px;
   line-height: 1.3em;
   height: 55px;
 }
@@ -2887,7 +2887,7 @@ ul.breadcrumb li + li:last-child {
   background: #333;
   text-align: center;
   font-size: 1.1em;
-  padding: 0.1em;
+  padding: 1px;
   line-height: 1.3em;
   height: 55px;
 }
@@ -2896,7 +2896,7 @@ ul.breadcrumb li + li:last-child {
   background: #333;
   text-align: center;
   font-size: 1em;
-  padding: 0.1em;
+  padding: 1px;
   line-height: 1.3em;
   height: 55px;
 }
@@ -2905,7 +2905,7 @@ ul.breadcrumb li + li:last-child {
   background: #ea7500;
   text-align: center;
   font-size: 1em;
-  padding: 0.1em;
+  padding: 2px;
 }
 .type-m {
   width: 60px;
@@ -2913,7 +2913,7 @@ ul.breadcrumb li + li:last-child {
   background: #0072e3;
   color: #fff;
   font-size: 1em;
-  padding: 0.1em;
+  padding: 2px;
 }
 .type-m_ {
   width: 60px;
@@ -2921,28 +2921,28 @@ ul.breadcrumb li + li:last-child {
   background: #0072e3;
   color: #fff;
   font-size: 0.8em;
-  padding: 0.1em;
+  padding: 2px;
 }
 .type-o {
   text-align: center;
   background: #007979;
   color: #fff;
   font-size: 1em;
-  padding: 0.1em;
+  padding: 2px;
 }
 .type-s {
   text-align: center;
   background: #609;
   color: #fff;
   font-size: 1em;
-  padding: 0.1em;
+  padding: 2px;
 }
 .movie_title {
   color: #fff;
   background: #333;
   text-align: center;
   font-size: 1.5em;
-  padding: 0.1em;
+  padding: 2px;
   line-height: 1.3em;
   height: 3em;
 }
@@ -2951,13 +2951,13 @@ ul.breadcrumb li + li:last-child {
   background: #ea7500;
   text-align: center;
   font-size: 1.2em;
-  padding: 0.1em;
+  padding: 2px;
 }
 .movie_intro {
   color: #fff;
   text-align: left;
   font-size: 1.5em;
-  padding: 0.1em;
+  padding: 2px;
   background: #333;
   color: #fff;
   line-height: 2em;
@@ -2968,7 +2968,7 @@ ul.breadcrumb li + li:last-child {
   color: #fff;
   text-align: center;
   font-size: 1.2em;
-  padding: 0.1em;
+  padding: 2px;
   background: #333;
   color: #fff;
   line-height: 1.6em;
@@ -3278,7 +3278,7 @@ ul.breadcrumb li + li:last-child {
   background: #1d8378;
   font-size: 1.5em;
   line-height: 1.8em;
-  padding-left: 0.2em;
+  padding-left: 4px;
   height: 50px;
   margin-top: 44px;
   margin-bottom: -37px;
