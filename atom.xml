@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yuc.wiki/"/>
-  <updated>2022-10-02T16:48:14.703Z</updated>
+  <updated>2022-11-21T11:57:20.929Z</updated>
   <id>http://yuc.wiki/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Yuc&#39;s Anime List</title>
     <link href="http://yuc.wiki/index/"/>
     <id>http://yuc.wiki/index/</id>
-    <published>2022-08-04T16:00:00.000Z</published>
-    <updated>2022-10-02T16:48:14.703Z</updated>
+    <published>2022-12-31T16:00:00.000Z</published>
+    <updated>2022-11-21T11:57:20.929Z</updated>
     
     <summary type="html">
     
@@ -41,6 +41,36 @@
     </summary>
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>2023年1月新番表</title>
+    <link href="http://yuc.wiki/202301/"/>
+    <id>http://yuc.wiki/202301/</id>
+    <published>2022-10-31T16:00:00.000Z</published>
+    <updated>2022-11-21T11:52:07.497Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="2023年1月新番动画" scheme="http://yuc.wiki/tags/2023%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
     
   </entry>
   
@@ -494,7 +524,7 @@
     <link href="http://yuc.wiki/new/"/>
     <id>http://yuc.wiki/new/</id>
     <published>2015-07-09T16:00:00.000Z</published>
-    <updated>2022-11-15T13:27:38.601Z</updated>
+    <updated>2022-11-21T10:32:19.711Z</updated>
     
     <summary type="html">
     

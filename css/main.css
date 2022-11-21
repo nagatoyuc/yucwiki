@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #8c9103;
+  background: #a4ff44;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2604,7 +2604,7 @@ ul.breadcrumb li + li:last-child {
   text-align: left;
   font-weight: bold;
   font-size: 26px;
-  line-height: 32px;
+  line-height: 30px;
   padding-top: 5px;
   padding-left: 7px;
 }
@@ -2613,7 +2613,7 @@ ul.breadcrumb li + li:last-child {
   text-align: left;
   font-weight: bold;
   font-size: 24px;
-  line-height: 32px;
+  line-height: 28px;
   padding-top: 5px;
   padding-left: 7px;
 }
@@ -2623,6 +2623,7 @@ ul.breadcrumb li + li:last-child {
   font-size: 18px;
   line-height: 32px;
   padding-left: 7px;
+  padding-bottom: 5px;
 }
 .title_jp_r1 {
   color: #e0e0e0;
@@ -2630,20 +2631,25 @@ ul.breadcrumb li + li:last-child {
   font-size: 16px;
   line-height: 32px;
   padding-left: 7px;
+  padding-bottom: 5px;
 }
 .title_jp_r2 {
   color: #e0e0e0;
   text-align: left;
   font-size: 14px;
-  line-height: 32px;
+  line-height: 20px;
   padding-left: 7px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 .title_jp_r3 {
   color: #e0e0e0;
   text-align: left;
   font-size: 12px;
-  line-height: 32px;
+  line-height: 18px;
   padding-left: 7px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 .title_jp_r_ {
   color: #e0e0e0;
@@ -2702,7 +2708,7 @@ ul.breadcrumb li + li:last-child {
   color: #f0f0f0;
   font-size: 15px;
   padding: 0px;
-  line-height: 32px;
+  line-height: 20px;
 }
 .type_e_r_ {
   width: 100px;
@@ -2720,7 +2726,7 @@ ul.breadcrumb li + li:last-child {
   background: #c0c0c0;
   color: #003;
   font-size: 14px;
-  line-height: 32px;
+  line-height: 18px;
   padding: 0px;
 }
 .type_tag_r_ {
@@ -2738,7 +2744,7 @@ ul.breadcrumb li + li:last-child {
   background: #c0c0c0;
   color: #003;
   font-size: 12px;
-  line-height: 32px;
+  line-height: 18px;
   padding: 0px;
 }
 .staff_r {
@@ -2753,6 +2759,26 @@ ul.breadcrumb li + li:last-child {
 }
 .cast_r {
   width: 190px;
+  text-align: left;
+  vertical-align: top;
+  font-size: 16px;
+  line-height: 18px;
+  padding: 0px;
+  padding-top: 5px;
+  padding-left: 0px;
+}
+.staff_r1 {
+  width: 250px;
+  text-align: left;
+  vertical-align: top;
+  font-size: 16px;
+  line-height: 18px;
+  padding: 0px;
+  padding-top: 5px;
+  padding-left: 5px;
+}
+.cast_r1 {
+  width: 150px;
   text-align: left;
   vertical-align: top;
   font-size: 16px;
@@ -3616,8 +3642,8 @@ ul.breadcrumb li + li:last-child {
 .future_type_e {
   color: #fff;
   background: #ae3fc0;
-  font-size: 12px;
-  line-height: 14px;
+  font-size: 14px;
+  line-height: 18px;
   position: relative;
   left: 0px;
   top: 36px;
