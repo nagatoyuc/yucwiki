@@ -44,36 +44,6 @@
   </entry>
   
   <entry>
-    <title>2023年1月新番表</title>
-    <link href="http://yuc.wiki/202301/"/>
-    <id>http://yuc.wiki/202301/</id>
-    <published>2022-10-31T16:00:00.000Z</published>
-    <updated>2023-01-13T14:10:50.701Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="2023年1月新番动画" scheme="http://yuc.wiki/tags/2023%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Movie/OVA/OAD/SP etc.</title>
     <link href="http://yuc.wiki/sp/"/>
     <id>http://yuc.wiki/sp/</id>
@@ -105,7 +75,7 @@
     <link href="http://yuc.wiki/index/"/>
     <id>http://yuc.wiki/index/</id>
     <published>2022-12-31T16:00:00.000Z</published>
-    <updated>2023-01-13T14:10:42.188Z</updated>
+    <updated>2022-12-31T16:00:00.000Z</updated>
     
     <summary type="html">
     
@@ -129,11 +99,11 @@
   </entry>
   
   <entry>
-    <title>2022年10月新番表</title>
-    <link href="http://yuc.wiki/202210/"/>
-    <id>http://yuc.wiki/202210/</id>
-    <published>2022-07-31T16:00:00.000Z</published>
-    <updated>2023-01-03T11:17:20.106Z</updated>
+    <title>2023年1月新番表</title>
+    <link href="http://yuc.wiki/202301/"/>
+    <id>http://yuc.wiki/202301/</id>
+    <published>2022-10-31T16:00:00.000Z</published>
+    <updated>2022-12-31T16:00:00.000Z</updated>
     
     <summary type="html">
     
@@ -154,37 +124,7 @@
     
     
     
-      <category term="2022年10月新番动画" scheme="http://yuc.wiki/tags/2022%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2022年7月新番表</title>
-    <link href="http://yuc.wiki/202207/"/>
-    <id>http://yuc.wiki/202207/</id>
-    <published>2022-05-31T16:00:00.000Z</published>
-    <updated>2022-12-26T10:50:40.923Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="2022年7月新番动画" scheme="http://yuc.wiki/tags/2022%E5%B9%B47%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
+      <category term="2023年1月新番动画" scheme="http://yuc.wiki/tags/2023%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
     
   </entry>
   
@@ -217,11 +157,71 @@
   </entry>
   
   <entry>
+    <title>2022年10月新番表</title>
+    <link href="http://yuc.wiki/202210/"/>
+    <id>http://yuc.wiki/202210/</id>
+    <published>2022-07-31T16:00:00.000Z</published>
+    <updated>2022-09-30T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="2022年10月新番动画" scheme="http://yuc.wiki/tags/2022%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2022年7月新番表</title>
+    <link href="http://yuc.wiki/202207/"/>
+    <id>http://yuc.wiki/202207/</id>
+    <published>2022-05-31T16:00:00.000Z</published>
+    <updated>2022-06-30T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="2022年7月新番动画" scheme="http://yuc.wiki/tags/2022%E5%B9%B47%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2022年4月新番表</title>
     <link href="http://yuc.wiki/202204/"/>
     <id>http://yuc.wiki/202204/</id>
     <published>2022-02-28T16:00:00.000Z</published>
-    <updated>2022-10-02T16:47:58.298Z</updated>
+    <updated>2022-03-31T16:00:00.000Z</updated>
     
     <summary type="html">
     
@@ -251,7 +251,7 @@
     <link href="http://yuc.wiki/202201/"/>
     <id>http://yuc.wiki/202201/</id>
     <published>2021-11-30T16:00:00.000Z</published>
-    <updated>2022-10-02T16:47:52.183Z</updated>
+    <updated>2021-12-31T16:00:00.000Z</updated>
     
     <summary type="html">
     
@@ -281,7 +281,7 @@
     <link href="http://yuc.wiki/202110/"/>
     <id>http://yuc.wiki/202110/</id>
     <published>2021-08-31T16:00:00.000Z</published>
-    <updated>2022-10-02T16:47:46.917Z</updated>
+    <updated>2021-09-30T16:00:00.000Z</updated>
     
     <summary type="html">
     
@@ -311,7 +311,7 @@
     <link href="http://yuc.wiki/202107/"/>
     <id>http://yuc.wiki/202107/</id>
     <published>2021-05-31T16:00:00.000Z</published>
-    <updated>2022-10-02T16:47:41.449Z</updated>
+    <updated>2021-06-30T16:00:00.000Z</updated>
     
     <summary type="html">
     
@@ -341,7 +341,7 @@
     <link href="http://yuc.wiki/202104/"/>
     <id>http://yuc.wiki/202104/</id>
     <published>2021-02-28T16:00:00.000Z</published>
-    <updated>2022-10-02T16:47:35.386Z</updated>
+    <updated>2021-03-31T16:00:00.000Z</updated>
     
     <summary type="html">
     
@@ -371,7 +371,7 @@
     <link href="http://yuc.wiki/202101/"/>
     <id>http://yuc.wiki/202101/</id>
     <published>2020-11-30T16:00:00.000Z</published>
-    <updated>2022-10-02T16:47:29.411Z</updated>
+    <updated>2020-12-31T16:00:00.000Z</updated>
     
     <summary type="html">
     
@@ -401,7 +401,7 @@
     <link href="http://yuc.wiki/202010/"/>
     <id>http://yuc.wiki/202010/</id>
     <published>2020-08-06T16:00:00.000Z</published>
-    <updated>2022-10-02T16:47:23.465Z</updated>
+    <updated>2020-09-30T16:00:00.000Z</updated>
     
     <summary type="html">
     
@@ -431,7 +431,7 @@
     <link href="http://yuc.wiki/202007/"/>
     <id>http://yuc.wiki/202007/</id>
     <published>2020-05-06T16:00:00.000Z</published>
-    <updated>2022-10-02T16:47:15.433Z</updated>
+    <updated>2020-06-30T16:00:00.000Z</updated>
     
     <summary type="html">
     
@@ -461,7 +461,7 @@
     <link href="http://yuc.wiki/202004/"/>
     <id>http://yuc.wiki/202004/</id>
     <published>2020-02-06T16:00:00.000Z</published>
-    <updated>2022-10-02T16:47:05.888Z</updated>
+    <updated>2020-03-31T16:00:00.000Z</updated>
     
     <summary type="html">
     
@@ -487,41 +487,11 @@
   </entry>
   
   <entry>
-    <title>2019年10月新番表</title>
-    <link href="http://yuc.wiki/201910/"/>
-    <id>http://yuc.wiki/201910/</id>
-    <published>2019-07-13T16:00:00.000Z</published>
-    <updated>2022-10-02T16:46:36.560Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="2019年10月新番动画" scheme="http://yuc.wiki/tags/2019%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>2020年1月新番表</title>
     <link href="http://yuc.wiki/202001/"/>
     <id>http://yuc.wiki/202001/</id>
     <published>2019-10-11T16:00:00.000Z</published>
-    <updated>2022-10-02T10:06:20.007Z</updated>
+    <updated>2019-12-31T16:00:00.000Z</updated>
     
     <summary type="html">
     
@@ -543,6 +513,36 @@
     
     
       <category term="2020年1月新番动画" scheme="http://yuc.wiki/tags/2020%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019年10月新番表</title>
+    <link href="http://yuc.wiki/201910/"/>
+    <id>http://yuc.wiki/201910/</id>
+    <published>2019-07-13T16:00:00.000Z</published>
+    <updated>2010-09-30T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="2019年10月新番动画" scheme="http://yuc.wiki/tags/2019%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
     
   </entry>
   
