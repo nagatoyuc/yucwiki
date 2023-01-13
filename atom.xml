@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yuc.wiki/"/>
-  <updated>2022-11-21T11:57:20.929Z</updated>
+  <updated>2023-01-13T12:43:52.195Z</updated>
   <id>http://yuc.wiki/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Yuc&#39;s Anime List</title>
-    <link href="http://yuc.wiki/index/"/>
-    <id>http://yuc.wiki/index/</id>
-    <published>2022-12-31T16:00:00.000Z</published>
-    <updated>2022-11-21T11:57:20.929Z</updated>
+    <title>Movie/OVA/OAD/SP etc.</title>
+    <link href="http://yuc.wiki/sp/"/>
+    <id>http://yuc.wiki/sp/</id>
+    <published>2018-07-09T16:00:00.000Z</published>
+    <updated>2023-01-13T12:43:52.195Z</updated>
     
     <summary type="html">
     
@@ -33,8 +33,39 @@
 &lt;html&gt;
 &lt;head&gt;
 &lt;meta&gt;
-&lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot; type=&quot;application/atom+x
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot; type=&quot;application/atom+xml&quot;&gt;
+&lt;/head&gt;
+
+&lt;d
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>新番卫星观测站</title>
+    <link href="http://yuc.wiki/new/"/>
+    <id>http://yuc.wiki/new/</id>
+    <published>2015-07-09T16:00:00.000Z</published>
+    <updated>2023-01-13T12:28:04.060Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot; type=&quot;application/atom+xml&quot;&gt;
+&lt;/head&gt;
+&lt;bo
         
       
     
@@ -131,6 +162,62 @@
     
     
       <category term="2022年7月新番动画" scheme="http://yuc.wiki/tags/2022%E5%B9%B47%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>日本动画电影-内地院线档期</title>
+    <link href="http://yuc.wiki/movie/"/>
+    <id>http://yuc.wiki/movie/</id>
+    <published>2019-07-07T16:00:00.000Z</published>
+    <updated>2022-12-01T13:41:46.366Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot; type=&quot;application/atom+x
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Yuc&#39;s Anime List</title>
+    <link href="http://yuc.wiki/index/"/>
+    <id>http://yuc.wiki/index/</id>
+    <published>2022-12-31T16:00:00.000Z</published>
+    <updated>2022-11-21T11:57:20.929Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot; type=&quot;application/atom+x
+        
+      
+    
+    </summary>
+    
+    
     
   </entry>
   
@@ -405,36 +492,6 @@
   </entry>
   
   <entry>
-    <title>2020年1月新番表</title>
-    <link href="http://yuc.wiki/202001/"/>
-    <id>http://yuc.wiki/202001/</id>
-    <published>2019-10-11T16:00:00.000Z</published>
-    <updated>2022-10-02T10:06:20.007Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
-&lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="2020年1月新番动画" scheme="http://yuc.wiki/tags/2020%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>2019年10月新番表</title>
     <link href="http://yuc.wiki/201910/"/>
     <id>http://yuc.wiki/201910/</id>
@@ -465,11 +522,11 @@
   </entry>
   
   <entry>
-    <title>日本动画电影-内地院线档期</title>
-    <link href="http://yuc.wiki/movie/"/>
-    <id>http://yuc.wiki/movie/</id>
-    <published>2019-07-07T16:00:00.000Z</published>
-    <updated>2022-12-01T13:41:46.366Z</updated>
+    <title>2020年1月新番表</title>
+    <link href="http://yuc.wiki/202001/"/>
+    <id>http://yuc.wiki/202001/</id>
+    <published>2019-10-11T16:00:00.000Z</published>
+    <updated>2022-10-02T10:06:20.007Z</updated>
     
     <summary type="html">
     
@@ -480,9 +537,9 @@
           &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;meta&gt;
+&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
 &lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot; type=&quot;application/atom+x
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC
         
       
     
@@ -490,64 +547,7 @@
     
     
     
-  </entry>
-  
-  <entry>
-    <title>Movie/OVA/OAD/SP etc.</title>
-    <link href="http://yuc.wiki/sp/"/>
-    <id>http://yuc.wiki/sp/</id>
-    <published>2018-07-09T16:00:00.000Z</published>
-    <updated>2023-01-13T12:43:52.195Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot; type=&quot;application/atom+xml&quot;&gt;
-&lt;/head&gt;
-
-&lt;d
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>新番卫星观测站</title>
-    <link href="http://yuc.wiki/new/"/>
-    <id>http://yuc.wiki/new/</id>
-    <published>2015-07-09T16:00:00.000Z</published>
-    <updated>2023-01-13T12:28:04.060Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot; type=&quot;application/atom+xml&quot;&gt;
-&lt;/head&gt;
-&lt;bo
-        
-      
-    
-    </summary>
-    
-    
+      <category term="2020年1月新番动画" scheme="http://yuc.wiki/tags/2020%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
     
   </entry>
   
