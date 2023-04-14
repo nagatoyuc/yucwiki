@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>YuC&#39;s AnimeList</title>
-  <icon>http://yuc.wiki/512.png</icon>
+  <icon>http://yuc.wiki/32x32.png</icon>
   
   <link href="/atom.xml" rel="self"/>
   
