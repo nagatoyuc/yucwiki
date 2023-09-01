@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yuc.wiki/"/>
-  <updated>2023-08-28T13:57:06.161Z</updated>
+  <updated>2023-09-01T17:38:20.953Z</updated>
   <id>http://yuc.wiki/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Movie/OVA/OAD/SP etc.</title>
-    <link href="http://yuc.wiki/sp/"/>
-    <id>http://yuc.wiki/sp/</id>
-    <published>2018-07-09T16:00:00.000Z</published>
-    <updated>2023-08-28T13:57:06.161Z</updated>
+    <title>新番卫星观测站</title>
+    <link href="http://yuc.wiki/new/"/>
+    <id>http://yuc.wiki/new/</id>
+    <published>2015-07-09T16:00:00.000Z</published>
+    <updated>2023-09-01T17:38:20.953Z</updated>
     
     <summary type="html">
     
@@ -44,11 +44,11 @@
   </entry>
   
   <entry>
-    <title>新番卫星观测站</title>
-    <link href="http://yuc.wiki/new/"/>
-    <id>http://yuc.wiki/new/</id>
-    <published>2015-07-09T16:00:00.000Z</published>
-    <updated>2023-08-23T12:59:28.815Z</updated>
+    <title>Movie/OVA/OAD/SP etc.</title>
+    <link href="http://yuc.wiki/sp/"/>
+    <id>http://yuc.wiki/sp/</id>
+    <published>2018-07-09T16:00:00.000Z</published>
+    <updated>2023-08-28T13:57:06.161Z</updated>
     
     <summary type="html">
     
