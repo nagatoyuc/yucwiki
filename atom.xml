@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yuc.wiki/"/>
-  <updated>2023-10-07T14:17:29.507Z</updated>
+  <updated>2023-10-11T16:23:09.628Z</updated>
   <id>http://yuc.wiki/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日本动画电影-内地院线档期</title>
+    <link href="http://yuc.wiki/movie/"/>
+    <id>http://yuc.wiki/movie/</id>
+    <published>2019-07-07T16:00:00.000Z</published>
+    <updated>2023-10-11T16:23:09.628Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>新番卫星观测站</title>
@@ -125,34 +153,6 @@
     
     
       <category term="2023年10月新番动画" scheme="http://yuc.wiki/tags/2023%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>日本动画电影-内地院线档期</title>
-    <link href="http://yuc.wiki/movie/"/>
-    <id>http://yuc.wiki/movie/</id>
-    <published>2019-07-07T16:00:00.000Z</published>
-    <updated>2023-07-13T12:55:20.698Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
-        
-      
-    
-    </summary>
-    
-    
     
   </entry>
   
