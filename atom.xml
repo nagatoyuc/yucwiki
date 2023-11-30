@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yuc.wiki/"/>
-  <updated>2023-11-20T14:08:47.642Z</updated>
+  <updated>2023-11-30T12:53:46.516Z</updated>
   <id>http://yuc.wiki/</id>
   
   <author>
@@ -15,6 +15,61 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新番卫星观测站</title>
+    <link href="http://yuc.wiki/new/"/>
+    <id>http://yuc.wiki/new/</id>
+    <published>2015-07-09T16:00:00.000Z</published>
+    <updated>2023-11-30T12:53:46.516Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Yuc&#39;s Anime List</title>
+    <link href="http://yuc.wiki/index/"/>
+    <id>http://yuc.wiki/index/</id>
+    <published>2023-11-29T16:00:00.000Z</published>
+    <updated>2023-11-29T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Movie/OVA/OAD/SP etc.</title>
@@ -44,38 +99,11 @@
   </entry>
   
   <entry>
-    <title>新番卫星观测站</title>
-    <link href="http://yuc.wiki/new/"/>
-    <id>http://yuc.wiki/new/</id>
-    <published>2015-07-09T16:00:00.000Z</published>
-    <updated>2023-11-20T14:06:00.117Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot; title=&quot;YuC&#39;s AnimeList&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>日本动画电影-内地院线档期</title>
-    <link href="http://yuc.wiki/movie/"/>
-    <id>http://yuc.wiki/movie/</id>
-    <published>2019-07-07T16:00:00.000Z</published>
-    <updated>2023-10-19T10:58:25.988Z</updated>
+    <title>2024年1月新番表</title>
+    <link href="http://yuc.wiki/202401/"/>
+    <id>http://yuc.wiki/202401/</id>
+    <published>2023-10-31T16:00:00.000Z</published>
+    <updated>2023-10-31T16:00:00.000Z</updated>
     
     <summary type="html">
     
@@ -96,14 +124,16 @@
     
     
     
+      <category term="2024年1月新番动画" scheme="http://yuc.wiki/tags/2024%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
+    
   </entry>
   
   <entry>
-    <title>Yuc&#39;s Anime List</title>
-    <link href="http://yuc.wiki/index/"/>
-    <id>http://yuc.wiki/index/</id>
-    <published>2023-09-01T16:00:00.000Z</published>
-    <updated>2023-08-31T16:00:00.000Z</updated>
+    <title>日本动画电影-内地院线档期</title>
+    <link href="http://yuc.wiki/movie/"/>
+    <id>http://yuc.wiki/movie/</id>
+    <published>2019-07-07T16:00:00.000Z</published>
+    <updated>2023-10-19T10:58:25.988Z</updated>
     
     <summary type="html">
     
@@ -573,36 +603,6 @@
     
     
       <category term="2020年4月新番动画" scheme="http://yuc.wiki/tags/2020%E5%B9%B44%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2020年1月新番表</title>
-    <link href="http://yuc.wiki/202001/"/>
-    <id>http://yuc.wiki/202001/</id>
-    <published>2019-10-11T16:00:00.000Z</published>
-    <updated>2019-12-31T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta name=&quot;referrer&quot; content=&quot;same-origin&quot;&gt;
-&lt;title&gt;&lt;/title&gt;
-&lt;link rel=&quot;alternate&quot; href=&quot;/atom.xml&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="2020年1月新番动画" scheme="http://yuc.wiki/tags/2020%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
     
   </entry>
   
