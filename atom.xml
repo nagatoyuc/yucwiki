@@ -90,6 +90,38 @@
   </entry>
   
   <entry>
+    <title>Yuc&#39;s Anime List</title>
+    <link href="http://yuc.wiki/index/"/>
+    <id>http://yuc.wiki/index/</id>
+    <published>2024-09-01T16:00:00.000Z</published>
+    <updated>2024-09-01T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;style&gt;
+table {
+    border: solid 2px #999999;
+    border-collapse:</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Movie/OVA/OAD/SP etc.</title>
     <link href="http://yuc.wiki/sp/"/>
     <id>http://yuc.wiki/sp/</id>
@@ -118,11 +150,11 @@
   </entry>
   
   <entry>
-    <title>Yuc&#39;s Anime List</title>
-    <link href="http://yuc.wiki/index/"/>
-    <id>http://yuc.wiki/index/</id>
-    <published>2024-06-01T16:00:00.000Z</published>
-    <updated>2024-06-01T16:00:00.000Z</updated>
+    <title>2024年10月新番表</title>
+    <link href="http://yuc.wiki/202410/"/>
+    <id>http://yuc.wiki/202410/</id>
+    <published>2024-08-31T16:00:00.000Z</published>
+    <updated>2024-05-31T16:00:00.000Z</updated>
     
     
       
@@ -136,16 +168,15 @@
 &lt;title&gt;&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
-
-&lt;style&gt;
-table {
-    border: solid 2px #999999;
-    border-collapse:</summary>
+&lt;p class=&quot;intro&quot;&gt;
+本期 &lt;b&gt;秋季档&lt;/b&gt; 已收录 &lt;font</summary>
         
       
     
     
     
+    
+    <category term="2024年10月新番动画" scheme="http://yuc.wiki/tags/2024%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
     
   </entry>
   
@@ -616,37 +647,6 @@ table {
     
     
     <category term="2021年1月新番动画" scheme="http://yuc.wiki/tags/2021%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2020年10月新番表</title>
-    <link href="http://yuc.wiki/202010/"/>
-    <id>http://yuc.wiki/202010/</id>
-    <published>2020-08-06T16:00:00.000Z</published>
-    <updated>2020-09-30T16:00:00.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;title&gt;&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;p class=&quot;intro&quot;&gt;
-&lt;b&gt;秋季档&lt;/b&gt; 已确定 &lt;b&gt;&lt;u&gt;45&lt;/u&gt;&lt;/b&gt;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="2020年10月新番动画" scheme="http://yuc.wiki/tags/2020%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
     
   </entry>
   
