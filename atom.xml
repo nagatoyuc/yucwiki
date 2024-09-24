@@ -6,7 +6,7 @@
   <link href="http://yuc.wiki/atom.xml" rel="self"/>
   
   <link href="http://yuc.wiki/"/>
-  <updated>2024-09-24T02:23:00.803Z</updated>
+  <updated>2024-09-24T02:32:30.338Z</updated>
   <id>http://yuc.wiki/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Movie/OVA/OAD/SP etc.</title>
+    <link href="http://yuc.wiki/sp/"/>
+    <id>http://yuc.wiki/sp/</id>
+    <published>2018-07-09T16:00:00.000Z</published>
+    <updated>2024-09-24T02:32:30.338Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;/head&gt;
+
+&lt;!--div style=&quot;float:left&quot;&gt;
+  &lt;div class=&quot;div_sp&quot; &gt;&lt;img width=&quot;200px&quot; src=&quot;海报&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>新番卫星观测站</title>
@@ -152,34 +180,6 @@ table {
     
     
     <category term="2024年10月新番动画" scheme="http://yuc.wiki/tags/2024%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Movie/OVA/OAD/SP etc.</title>
-    <link href="http://yuc.wiki/sp/"/>
-    <id>http://yuc.wiki/sp/</id>
-    <published>2018-07-09T16:00:00.000Z</published>
-    <updated>2024-07-17T17:11:47.738Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;/head&gt;
-
-&lt;!--div style=&quot;float:left&quot;&gt;
-  &lt;div class=&quot;div_sp&quot; &gt;&lt;img width=&quot;200px&quot; src=&quot;海报&quot;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
