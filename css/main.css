@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #9f4188;
+  background: #d9d93c;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -3391,8 +3391,29 @@ ul.breadcrumb li + li:last-child {
   text-align: center;
   color: #960;
   font-size: 0.8em;
-  line-height: 0.5em;
+  line-height: 0.8em;
   margin-bottom: 1px;
+  height: 24px;
+}
+.area1 {
+  vertical-align: center;
+  text-align: center;
+  font-weight: bolder;
+  color: #222;
+  font-size: 1em;
+  line-height: 1em;
+  margin-bottom: 15px;
+  height: 24px;
+}
+.area2 {
+  vertical-align: center;
+  text-align: center;
+  font-weight: bolder;
+  color: #222;
+  font-size: 1em;
+  line-height: 1em;
+  margin-top: 12px;
+  margin-bottom: 4px;
   height: 24px;
 }
 .area_c {
