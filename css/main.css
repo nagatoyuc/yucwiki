@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #c1e3a6;
+  background: #7a1aff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -3465,6 +3465,11 @@ ul.breadcrumb li + li:last-child {
   position: relative;
   top: -10px;
 }
+.p_br {
+  margin-top: -10px;
+  margin-bottom: 0px;
+  font-size: 0.8em;
+}
 .p_other {
   vertical-align: center;
   text-align: center;
@@ -3655,6 +3660,12 @@ ul.breadcrumb li + li:last-child {
   font-size: 1.5em;
   text-align: center;
   width: 120px;
+}
+.index_year1 {
+  color: #666;
+  font-size: 1.8em;
+  text-align: center;
+  width: 125px;
 }
 .index_season {
   font-size: 1.2em;
