@@ -19,7 +19,7 @@
 
 <script id="hexo-configurations">
     var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"yuc.wiki","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false},"motion":{"enable":false,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+    var CONFIG = {"hostname":"yuc.wiki","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":true,"pangu":false,"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false},"motion":{"enable":false,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
   </script>
 
   <meta property="og:type" content="website">
@@ -266,9 +266,6 @@
 </div>
   <div class="links-of-author motion-element">
       <span class="links-of-author-item">
-        <a href="https://weibo.com/nagatoyuc" title="weibo → https:&#x2F;&#x2F;weibo.com&#x2F;nagatoyuc" rel="noopener" target="_blank"><i class="fa fa-fw fa-weibo"></i>weibo</a>
-      </span>
-      <span class="links-of-author-item">
         <a href="https://space.bilibili.com/30160" title="bilibili → https:&#x2F;&#x2F;space.bilibili.com&#x2F;30160" rel="noopener" target="_blank"><i class="fa fa-fw fa-tv"></i>bilibili</a>
       </span>
   </div>
@@ -411,6 +408,7 @@
   <script src="/lib/anime.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/lozad.js/1.9.0/lozad.min.js"></script>
 
 <script src="/js/utils.js"></script>
 
@@ -442,6 +440,16 @@
   
 
   
+  <script src="\js\quicklink.umd.js"></script>
+  <script>
+      window.addEventListener('load', () => {
+      quicklink({
+        timeout : 3000,
+        priority: true,
+        ignores : [uri => uri.includes('#'),uri => uri === 'http://yuc.wiki/tags/2022%E5%B9%B47%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/',]
+      });
+      });
+  </script>
 
 </body>
 </html>
