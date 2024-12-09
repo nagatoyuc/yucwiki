@@ -1,20 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>YuC&#39;s AnimeList</title>
+  <title>長門番堂</title>
   <icon>http://yuc.wiki/32x32.png</icon>
-  
+  <subtitle>Yuc&#39;s Anime List</subtitle>
   <link href="http://yuc.wiki/atom.xml" rel="self"/>
   
   <link href="http://yuc.wiki/"/>
-  <updated>2024-12-02T16:07:51.243Z</updated>
+  <updated>2024-12-09T18:17:06.686Z</updated>
   <id>http://yuc.wiki/</id>
   
   <author>
-    <name>nagatoyuc</name>
+    <name>長門有C</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新番卫星观测站</title>
+    <link href="http://yuc.wiki/new/"/>
+    <id>http://yuc.wiki/new/</id>
+    <published>2015-07-09T16:00:00.000Z</published>
+    <updated>2024-12-09T18:17:06.686Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+
+&lt;!--2025春--&gt;
+
+&lt;p class=&quot;future_intro&quot;&gt;&lt;b&gt;预计着陆　[春季档] (2025年4月±)&lt;/b&gt;&lt;/p&gt;
+
+
+
+&lt;div</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>日本动画电影-内地院线档期</title>
@@ -56,11 +91,11 @@
   </entry>
   
   <entry>
-    <title>新番卫星观测站</title>
-    <link href="http://yuc.wiki/new/"/>
-    <id>http://yuc.wiki/new/</id>
-    <published>2015-07-09T16:00:00.000Z</published>
-    <updated>2024-12-02T15:45:12.067Z</updated>
+    <title>長門番堂&lt;br&gt;Yuc&#39;s Anime List</title>
+    <link href="http://yuc.wiki/index/"/>
+    <id>http://yuc.wiki/index/</id>
+    <published>2024-12-01T16:00:00.000Z</published>
+    <updated>2024-12-01T16:00:00.000Z</updated>
     
     
       
@@ -71,22 +106,50 @@
 &lt;html&gt;
 &lt;head&gt;
 &lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
 
-&lt;!--2025冬--&gt;
-
-
-&lt;p class=&quot;future_intro&quot;&gt;&lt;b&gt;即将着陆　[冬季档] (2025年1月±)&lt;/b&gt;&lt;/p&gt;
-
-
-
-&lt;div</summary>
+&lt;style&gt;
+table {
+    border: solid 2px #999999;
+    border-collapse:</summary>
         
       
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>2025年1月新番表</title>
+    <link href="http://yuc.wiki/202501/"/>
+    <id>http://yuc.wiki/202501/</id>
+    <published>2024-11-30T16:00:00.000Z</published>
+    <updated>2024-11-30T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;p class=&quot;intro&quot;&gt;
+本期 &lt;b&gt;冬季档&lt;/b&gt; 共收录 &lt;font</summary>
+        
+      
+    
+    
+    
+    
+    <category term="2025年1月新番动画" scheme="http://yuc.wiki/tags/2025%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
     
   </entry>
   
@@ -113,38 +176,6 @@
 
 &lt;div style=&quot;float:left&quot;&gt;
   &lt;div class=&quot;div_sp&quot; &gt;&lt;img width=&quot;200px&quot; data-src=&quot;海报&quot;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>長門番堂&lt;br&gt;Yuc&#39;s Anime List</title>
-    <link href="http://yuc.wiki/index/"/>
-    <id>http://yuc.wiki/index/</id>
-    <published>2024-09-01T16:00:00.000Z</published>
-    <updated>2024-09-01T16:00:00.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;title&gt;&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;style&gt;
-table {
-    border: solid 2px #999999;
-    border-collapse:</summary>
         
       
     
@@ -621,37 +652,6 @@ table {
     
     
     <category term="2021年4月新番动画" scheme="http://yuc.wiki/tags/2021%E5%B9%B44%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2021年1月新番表</title>
-    <link href="http://yuc.wiki/202101/"/>
-    <id>http://yuc.wiki/202101/</id>
-    <published>2020-11-30T16:00:00.000Z</published>
-    <updated>2020-12-31T16:00:00.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;title&gt;&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;p class=&quot;intro&quot;&gt;
-&lt;b&gt;冬季档&lt;/b&gt; 已确定 &lt;b&gt;&lt;u&gt;55&lt;/u&gt;&lt;/b&gt;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="2021年1月新番动画" scheme="http://yuc.wiki/tags/2021%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
     
   </entry>
   
