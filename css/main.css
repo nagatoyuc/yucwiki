@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #a46e22;
+  background: #ff0567;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -3458,6 +3458,50 @@ ul.breadcrumb li + li:last-child {
   margin-bottom: 1px;
   height: 24px;
 }
+.pmfs {
+  vertical-align: center;
+  text-align: center;
+  color: #008b8b;
+  font-size: 0.8em;
+  line-height: 0.5em;
+  margin-bottom: 1px;
+  height: 24px;
+  position: relative;
+  top: -10px;
+}
+.pmfs2 {
+  vertical-align: center;
+  text-align: center;
+  color: #008b8b;
+  font-size: 0.8em;
+  line-height: 1em;
+  margin-bottom: 1px;
+  height: 24px;
+  position: relative;
+  top: -10px;
+}
+.paomian {
+  vertical-align: center;
+  text-align: center;
+  color: #333;
+  font-size: 0.8em;
+  line-height: 1em;
+  margin-bottom: 1px;
+  height: 24px;
+  position: relative;
+  top: -25px;
+}
+.paomian2 {
+  vertical-align: center;
+  text-align: center;
+  color: #333;
+  font-size: 0.8em;
+  line-height: 1em;
+  margin-bottom: 1px;
+  height: 24px;
+  position: relative;
+  top: -10px;
+}
 .area_ex {
   vertical-align: center;
   text-align: center;
@@ -3600,18 +3644,29 @@ ul.breadcrumb li + li:last-child {
 .imgtext2 {
   color: #fff;
   background: #6a0808;
-  line-height: 1.3em;
+  line-height: 1.6em;
   position: relative;
   left: 0px;
   top: 40px;
   height: 20px;
-  width: 52px;
+  width: 40px;
   text-align: center;
 }
 .imgtext2_ {
   color: #fff;
-  background: #6a0808;
-  line-height: 1.3em;
+  background: #a0522d;
+  line-height: 1.6em;
+  position: relative;
+  left: 0px;
+  top: 40px;
+  height: 20px;
+  width: 60px;
+  text-align: center;
+}
+.imgtext2__ {
+  color: #fff;
+  background: #a0522d;
+  line-height: 1.6em;
   position: relative;
   left: 0px;
   top: 40px;
@@ -3622,7 +3677,7 @@ ul.breadcrumb li + li:last-child {
 .imgtext3 {
   color: #fff;
   background: #3f60c0;
-  line-height: 1.3em;
+  line-height: 1.6em;
   position: relative;
   left: 0px;
   top: 40px;
@@ -3633,7 +3688,18 @@ ul.breadcrumb li + li:last-child {
 .imgtext3_ {
   color: #fff;
   background: #3f60c0;
-  line-height: 1.3em;
+  line-height: 1.6em;
+  position: relative;
+  left: 0px;
+  top: 40px;
+  height: 20px;
+  width: 60px;
+  text-align: center;
+}
+.imgtext5 {
+  color: #fff;
+  background: #3f60c0;
+  line-height: 1.6em;
   position: relative;
   left: 0px;
   top: 40px;
