@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #52ffd5;
+  background: #bdff52;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -3644,7 +3644,7 @@ ul.breadcrumb li + li:last-child {
 .imgtext2 {
   color: #fff;
   background: #6a0808;
-  line-height: 1.4em;
+  line-height: 1.3em;
   position: relative;
   left: 0px;
   top: 40px;
@@ -3655,7 +3655,7 @@ ul.breadcrumb li + li:last-child {
 .imgtext2_ {
   color: #fff;
   background: #a0522d;
-  line-height: 1.4em;
+  line-height: 1.3em;
   position: relative;
   left: 0px;
   top: 40px;
@@ -3666,7 +3666,7 @@ ul.breadcrumb li + li:last-child {
 .imgtext2__ {
   color: #fff;
   background: #a0522d;
-  line-height: 1.4em;
+  line-height: 1.3em;
   position: relative;
   left: 0px;
   top: 40px;
@@ -3677,7 +3677,7 @@ ul.breadcrumb li + li:last-child {
 .imgtext3 {
   color: #fff;
   background: #3f60c0;
-  line-height: 1.4em;
+  line-height: 1.3em;
   position: relative;
   left: 0px;
   top: 40px;
@@ -3688,7 +3688,7 @@ ul.breadcrumb li + li:last-child {
 .imgtext3_ {
   color: #fff;
   background: #3f60c0;
-  line-height: 1.4em;
+  line-height: 1.3em;
   position: relative;
   left: 0px;
   top: 40px;
@@ -3699,7 +3699,7 @@ ul.breadcrumb li + li:last-child {
 .imgtext5 {
   color: #fff;
   background: #3f60c0;
-  line-height: 1.4em;
+  line-height: 1.3em;
   position: relative;
   left: 0px;
   top: 40px;
