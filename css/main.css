@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #57ff2d;
+  background: #62ff1b;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -3389,6 +3389,9 @@ ul.breadcrumb li + li:last-child {
 .tr_area {
   height: 68px;
 }
+.tr_area_pm {
+  height: 50px;
+}
 .tr_area_ {
   height: 136px;
 }
@@ -3478,6 +3481,16 @@ ul.breadcrumb li + li:last-child {
   margin-bottom: 1px;
   height: 24px;
   position: relative;
+}
+.pmex {
+  vertical-align: center;
+  text-align: center;
+  color: #333;
+  font-size: 0.8em;
+  line-height: 1em;
+  margin-bottom: 1px;
+  height: 24px;
+  position: relative;
   top: -10px;
 }
 .paomian {
@@ -3522,7 +3535,8 @@ ul.breadcrumb li + li:last-child {
 }
 .tr_area_ex {
   position: relative;
-  top: -10px;
+  top: -12px;
+  height: 50px;
 }
 .p_br {
   margin-top: -10px;
