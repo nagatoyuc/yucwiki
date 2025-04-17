@@ -6,7 +6,7 @@
   <link href="http://yuc.wiki/atom.xml" rel="self"/>
   
   <link href="http://yuc.wiki/"/>
-  <updated>2025-04-10T11:12:25.758Z</updated>
+  <updated>2025-04-17T15:46:55.688Z</updated>
   <id>http://yuc.wiki/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>新番卫星观测站</title>
-    <link href="http://yuc.wiki/new/"/>
-    <id>http://yuc.wiki/new/</id>
-    <published>2015-07-09T16:00:00.000Z</published>
-    <updated>2025-04-10T11:12:25.758Z</updated>
+    <title>Movie/OVA/OAD/SP etc.</title>
+    <link href="http://yuc.wiki/sp/"/>
+    <id>http://yuc.wiki/sp/</id>
+    <published>2018-07-09T16:00:00.000Z</published>
+    <updated>2025-04-17T15:46:55.688Z</updated>
     
     
       
@@ -33,14 +33,12 @@
 &lt;head&gt;
 &lt;meta&gt;
 &lt;/head&gt;
-&lt;body&gt;
-
-&lt;!--2025夏--&gt;
-
-&lt;p class=&quot;future_intro&quot;&gt;&lt;b&gt;预计着陆　[夏季档] (2025年7月±)&lt;/b&gt;&lt;/p&gt;
 
 
-&lt;div</summary>
+&lt;!--div&gt;
+
+&lt;div style=&quot;float:left&quot;&gt;
+  &lt;div class=&quot;div_sp&quot; &gt;&lt;img width=&quot;200px&quot; data-src=&quot;海报&quot;</summary>
         
       
     
@@ -54,7 +52,7 @@
     <link href="http://yuc.wiki/movie/"/>
     <id>http://yuc.wiki/movie/</id>
     <published>2019-07-07T16:00:00.000Z</published>
-    <updated>2025-04-09T09:19:21.359Z</updated>
+    <updated>2025-04-17T15:45:51.141Z</updated>
     
     
       
@@ -86,11 +84,11 @@
   </entry>
   
   <entry>
-    <title>Movie/OVA/OAD/SP etc.</title>
-    <link href="http://yuc.wiki/sp/"/>
-    <id>http://yuc.wiki/sp/</id>
-    <published>2018-07-09T16:00:00.000Z</published>
-    <updated>2025-03-26T18:25:58.482Z</updated>
+    <title>新番卫星观测站</title>
+    <link href="http://yuc.wiki/new/"/>
+    <id>http://yuc.wiki/new/</id>
+    <published>2015-07-09T16:00:00.000Z</published>
+    <updated>2025-04-17T15:45:13.623Z</updated>
     
     
       
@@ -102,12 +100,14 @@
 &lt;head&gt;
 &lt;meta&gt;
 &lt;/head&gt;
+&lt;body&gt;
+
+&lt;!--2025夏--&gt;
+
+&lt;p class=&quot;future_intro&quot;&gt;&lt;b&gt;预计着陆　[夏季档] (2025年7月±)&lt;/b&gt;&lt;/p&gt;
 
 
-&lt;!--div&gt;
-
-&lt;div style=&quot;float:left&quot;&gt;
-  &lt;div class=&quot;div_sp&quot; &gt;&lt;img width=&quot;200px&quot; data-src=&quot;海报&quot;</summary>
+&lt;div</summary>
         
       
     
