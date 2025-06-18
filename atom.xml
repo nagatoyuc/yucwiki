@@ -6,7 +6,7 @@
   <link href="http://yuc.wiki/atom.xml" rel="self"/>
   
   <link href="http://yuc.wiki/"/>
-  <updated>2025-06-18T05:18:26.306Z</updated>
+  <updated>2025-06-18T10:21:12.399Z</updated>
   <id>http://yuc.wiki/</id>
   
   <author>
@@ -15,6 +15,72 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日本动画电影-内地院线档期</title>
+    <link href="http://yuc.wiki/movie/"/>
+    <id>http://yuc.wiki/movie/</id>
+    <published>2019-07-07T16:00:00.000Z</published>
+    <updated>2025-06-18T10:21:12.399Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;    
+&lt;body&gt;
+
+
+
+&lt;p class=&quot;movie_intro&quot;&gt;&lt;b&gt;近期上映：&lt;/b&gt;&lt;/p&gt;&lt;br&gt;
+
+&lt;div&gt;
+
+&lt;div</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Movie/OVA/OAD/SP etc.</title>
+    <link href="http://yuc.wiki/sp/"/>
+    <id>http://yuc.wiki/sp/</id>
+    <published>2018-07-09T16:00:00.000Z</published>
+    <updated>2025-06-18T10:13:55.555Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;/head&gt;
+
+
+&lt;!--div&gt;
+
+&lt;div style=&quot;float:left&quot;&gt;
+  &lt;div class=&quot;div_sp&quot; &gt;&lt;img width=&quot;200px&quot; data-src=&quot;海报&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>新番卫星观测站</title>
@@ -40,41 +106,6 @@
 
 &lt;p class=&quot;future_intro&quot;&gt;&lt;b&gt;预计着陆　[秋季档] (2025年10月±)&lt;/b&gt;&lt;/p&gt;
 
-
-&lt;div</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>日本动画电影-内地院线档期</title>
-    <link href="http://yuc.wiki/movie/"/>
-    <id>http://yuc.wiki/movie/</id>
-    <published>2019-07-07T16:00:00.000Z</published>
-    <updated>2025-06-09T14:21:40.142Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;title&gt;&lt;/title&gt;
-&lt;/head&gt;    
-&lt;body&gt;
-
-
-
-&lt;p class=&quot;movie_intro&quot;&gt;&lt;b&gt;近期上映：&lt;/b&gt;&lt;/p&gt;&lt;br&gt;
-
-&lt;div&gt;
 
 &lt;div</summary>
         
@@ -146,37 +177,6 @@ table {
     
     
     <category term="2025年7月新番动画" scheme="http://yuc.wiki/tags/2025%E5%B9%B47%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Movie/OVA/OAD/SP etc.</title>
-    <link href="http://yuc.wiki/sp/"/>
-    <id>http://yuc.wiki/sp/</id>
-    <published>2018-07-09T16:00:00.000Z</published>
-    <updated>2025-05-18T17:11:13.825Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;/head&gt;
-
-
-&lt;!--div&gt;
-
-&lt;div style=&quot;float:left&quot;&gt;
-  &lt;div class=&quot;div_sp&quot; &gt;&lt;img width=&quot;200px&quot; data-src=&quot;海报&quot;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
