@@ -6,7 +6,7 @@
   <link href="http://yuc.wiki/atom.xml" rel="self"/>
   
   <link href="http://yuc.wiki/"/>
-  <updated>2025-07-24T14:34:56.104Z</updated>
+  <updated>2025-07-25T14:06:27.656Z</updated>
   <id>http://yuc.wiki/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yuc.wiki/new/"/>
     <id>http://yuc.wiki/new/</id>
     <published>2015-07-09T16:00:00.000Z</published>
-    <updated>2025-07-24T14:34:56.104Z</updated>
+    <updated>2025-07-25T14:06:27.656Z</updated>
     
     
       
@@ -42,6 +42,37 @@
 
 
 &lt;div</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Movie/OVA/OAD/SP etc.</title>
+    <link href="http://yuc.wiki/sp/"/>
+    <id>http://yuc.wiki/sp/</id>
+    <published>2018-07-09T16:00:00.000Z</published>
+    <updated>2025-07-25T13:44:12.244Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;/head&gt;
+
+
+&lt;!--div&gt;
+
+&lt;div style=&quot;float:left&quot;&gt;
+  &lt;div class=&quot;div_sp&quot; &gt;&lt;img width=&quot;200px&quot; data-src=&quot;海报&quot;</summary>
         
       
     
@@ -77,37 +108,6 @@
 &lt;div&gt;
 
 &lt;div</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Movie/OVA/OAD/SP etc.</title>
-    <link href="http://yuc.wiki/sp/"/>
-    <id>http://yuc.wiki/sp/</id>
-    <published>2018-07-09T16:00:00.000Z</published>
-    <updated>2025-07-19T08:17:04.255Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;/head&gt;
-
-
-&lt;!--div&gt;
-
-&lt;div style=&quot;float:left&quot;&gt;
-  &lt;div class=&quot;div_sp&quot; &gt;&lt;img width=&quot;200px&quot; data-src=&quot;海报&quot;</summary>
         
       
     

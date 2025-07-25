@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #41625e;
+  background: #ff1858;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -3383,11 +3383,11 @@ ul.breadcrumb li + li:last-child {
   letter-spacing: 3px;
 }
 .date_ {
-  margin-top: 0px;
-  margin-bottom: -26px;
+  margin-top: 10px;
+  margin-bottom: -20px;
 }
 .tr_area {
-  height: 68px;
+  height: 38px;
 }
 .tr_area_pm {
   height: 50px;
