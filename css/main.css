@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #e2bfb3;
+  background: #5e019e;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -4012,9 +4012,9 @@ ul.breadcrumb li + li:last-child {
 }
 .cm_bilibili {
   color: #f69;
-  font-size: 5em;
-  line-height: 20px;
-  padding-top: 5px;
+  font-size: 20px;
+  line-height: 40px;
+  padding-top: 10px;
   padding-bottom: 5px;
   text-align: center;
 }
