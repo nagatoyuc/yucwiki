@@ -6,7 +6,7 @@
   <link href="http://yuc.wiki/atom.xml" rel="self"/>
   
   <link href="http://yuc.wiki/"/>
-  <updated>2025-08-10T16:37:10.260Z</updated>
+  <updated>2025-09-03T16:36:52.993Z</updated>
   <id>http://yuc.wiki/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yuc.wiki/new/"/>
     <id>http://yuc.wiki/new/</id>
     <published>2015-07-09T16:00:00.000Z</published>
-    <updated>2025-08-10T16:37:10.260Z</updated>
+    <updated>2025-09-03T16:36:52.993Z</updated>
     
     
       
@@ -36,17 +36,85 @@
 &lt;body&gt;
 
 
-&lt;!--2025秋--&gt;
 
-&lt;p class=&quot;future_intro&quot;&gt;&lt;b&gt;预计着陆　[秋季档] (2025年10月±)&lt;/b&gt;&lt;/p&gt;
+&lt;!--2025年内--&gt;
 
 
-&lt;div</summary>
+&lt;p class=&quot;future_intro&quot;&gt;&lt;b&gt;即将定档 - 2025年年内 (不延期的话就是10月)&lt;/b&gt;&lt;/p&gt;
+
+
+
+
+</summary>
         
       
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>長門番堂&lt;br&gt;Yuc&#39;s Anime List</title>
+    <link href="http://yuc.wiki/index/"/>
+    <id>http://yuc.wiki/index/</id>
+    <published>2025-09-01T16:00:00.000Z</published>
+    <updated>2025-09-01T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;style&gt;
+table {
+    border: solid 2px #999999;
+    border-collapse:</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2025年10月新番表</title>
+    <link href="http://yuc.wiki/202510/"/>
+    <id>http://yuc.wiki/202510/</id>
+    <published>2025-08-31T16:00:00.000Z</published>
+    <updated>2025-08-31T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;p class=&quot;intro&quot;&gt;
+本期 &lt;b&gt;秋季档&lt;/b&gt; 共收录 &lt;font</summary>
+        
+      
+    
+    
+    
+    
+    <category term="2025年10月新番动画" scheme="http://yuc.wiki/tags/2025%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
     
   </entry>
   
@@ -108,38 +176,6 @@
 &lt;div&gt;
 
 &lt;div</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>長門番堂&lt;br&gt;Yuc&#39;s Anime List</title>
-    <link href="http://yuc.wiki/index/"/>
-    <id>http://yuc.wiki/index/</id>
-    <published>2025-06-01T16:00:00.000Z</published>
-    <updated>2025-06-01T16:00:00.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;title&gt;&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;style&gt;
-table {
-    border: solid 2px #999999;
-    border-collapse:</summary>
         
       
     
@@ -618,37 +654,6 @@ table {
     
     
     <category term="2022年1月新番动画" scheme="http://yuc.wiki/tags/2022%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2021年10月新番表</title>
-    <link href="http://yuc.wiki/202110/"/>
-    <id>http://yuc.wiki/202110/</id>
-    <published>2021-08-31T16:00:00.000Z</published>
-    <updated>2021-09-30T16:00:00.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;title&gt;&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;p class=&quot;intro&quot;&gt;
-&lt;b&gt;秋季档&lt;/b&gt; 已确定 &lt;b&gt;&lt;u&gt;53&lt;/u&gt;&lt;/b&gt;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="2021年10月新番动画" scheme="http://yuc.wiki/tags/2021%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
     
   </entry>
   

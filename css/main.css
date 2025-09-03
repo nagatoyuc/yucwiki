@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #5e019e;
+  background: #b8ff7e;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -4010,6 +4010,13 @@ ul.breadcrumb li + li:last-child {
   padding-right: 65px;
   border-radius: 5px;
 }
+.cm_yuc {
+  color: #675874;
+  font-size: 16px;
+  line-height: 24px;
+  padding: 4px;
+  text-align: center;
+}
 .cm_bilibili {
   color: #f69;
   font-size: 20px;
@@ -4021,6 +4028,15 @@ ul.breadcrumb li + li:last-child {
 .cm0 {
   color: #f0f0f0;
   background: #ee802f;
+  font-size: 14px;
+  line-height: 14px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  text-align: center;
+}
+.cm2 {
+  color: #f0f0f0;
+  background: #675874;
   font-size: 14px;
   line-height: 14px;
   padding-top: 4px;
