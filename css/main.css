@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #fa6211;
+  background: #6fc9ed;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2622,6 +2622,15 @@ ul.breadcrumb li + li:last-child {
   text-align: left;
   font-weight: bold;
   font-size: 22px;
+  line-height: 24px;
+  padding-top: 5px;
+  padding-left: 7px;
+}
+.title_cn_r6 {
+  color: #f0f0f0;
+  text-align: left;
+  font-weight: bold;
+  font-size: 20px;
   line-height: 24px;
   padding-top: 5px;
   padding-left: 7px;

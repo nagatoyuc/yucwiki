@@ -6,7 +6,7 @@
   <link href="http://yuc.wiki/atom.xml" rel="self"/>
   
   <link href="http://yuc.wiki/"/>
-  <updated>2025-11-29T14:12:57.651Z</updated>
+  <updated>2025-12-05T20:32:59.590Z</updated>
   <id>http://yuc.wiki/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yuc.wiki/new/"/>
     <id>http://yuc.wiki/new/</id>
     <published>2015-07-09T16:00:00.000Z</published>
-    <updated>2025-11-29T14:12:57.651Z</updated>
+    <updated>2025-12-05T20:32:59.590Z</updated>
     
     
       
@@ -55,11 +55,11 @@
   </entry>
   
   <entry>
-    <title>Movie/OVA/OAD/SP etc.</title>
-    <link href="http://yuc.wiki/sp/"/>
-    <id>http://yuc.wiki/sp/</id>
-    <published>2018-07-09T16:00:00.000Z</published>
-    <updated>2025-11-07T16:26:38.467Z</updated>
+    <title>長門番堂&lt;br&gt;Yuc&#39;s Anime List</title>
+    <link href="http://yuc.wiki/index/"/>
+    <id>http://yuc.wiki/index/</id>
+    <published>2025-12-01T16:00:00.000Z</published>
+    <updated>2025-12-01T16:00:00.000Z</updated>
     
     
       
@@ -70,13 +70,14 @@
 &lt;html&gt;
 &lt;head&gt;
 &lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
 &lt;/head&gt;
+&lt;body&gt;
 
-
-&lt;!--div&gt;
-
-&lt;div style=&quot;float:left&quot;&gt;
-  &lt;div class=&quot;div_sp&quot; &gt;&lt;img width=&quot;200px&quot; data-src=&quot;海报&quot;</summary>
+&lt;style&gt;
+table {
+    border: solid 2px #999999;
+    border-collapse:</summary>
         
       
     
@@ -86,11 +87,43 @@
   </entry>
   
   <entry>
+    <title>2026年1月新番表</title>
+    <link href="http://yuc.wiki/202601/"/>
+    <id>http://yuc.wiki/202601/</id>
+    <published>2025-11-30T16:00:00.000Z</published>
+    <updated>2025-11-30T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;table border=&quot;1&quot;&gt;&lt;tr&gt;
+&lt;td&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="2026年1月新番动画" scheme="http://yuc.wiki/tags/2026%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>日本动画电影-内地院线档期</title>
     <link href="http://yuc.wiki/movie/"/>
     <id>http://yuc.wiki/movie/</id>
     <published>2019-07-07T16:00:00.000Z</published>
-    <updated>2025-11-07T16:25:52.597Z</updated>
+    <updated>2025-11-29T14:17:05.817Z</updated>
     
     
       
@@ -126,11 +159,11 @@
   </entry>
   
   <entry>
-    <title>長門番堂&lt;br&gt;Yuc&#39;s Anime List</title>
-    <link href="http://yuc.wiki/index/"/>
-    <id>http://yuc.wiki/index/</id>
-    <published>2025-09-01T16:00:00.000Z</published>
-    <updated>2025-09-01T16:00:00.000Z</updated>
+    <title>Movie/OVA/OAD/SP etc.</title>
+    <link href="http://yuc.wiki/sp/"/>
+    <id>http://yuc.wiki/sp/</id>
+    <published>2018-07-09T16:00:00.000Z</published>
+    <updated>2025-11-07T16:26:38.467Z</updated>
     
     
       
@@ -141,14 +174,13 @@
 &lt;html&gt;
 &lt;head&gt;
 &lt;meta&gt;
-&lt;title&gt;&lt;/title&gt;
 &lt;/head&gt;
-&lt;body&gt;
 
-&lt;style&gt;
-table {
-    border: solid 2px #999999;
-    border-collapse:</summary>
+
+&lt;!--div&gt;
+
+&lt;div style=&quot;float:left&quot;&gt;
+  &lt;div class=&quot;div_sp&quot; &gt;&lt;img width=&quot;200px&quot; data-src=&quot;海报&quot;</summary>
         
       
     
@@ -628,37 +660,6 @@ table {
     
     
     <category term="2022年4月新番动画" scheme="http://yuc.wiki/tags/2022%E5%B9%B44%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2022年1月新番表</title>
-    <link href="http://yuc.wiki/202201/"/>
-    <id>http://yuc.wiki/202201/</id>
-    <published>2021-11-30T16:00:00.000Z</published>
-    <updated>2021-12-31T16:00:00.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;title&gt;&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;p class=&quot;intro&quot;&gt;
-&lt;b&gt;冬季档&lt;/b&gt; 已确定 &lt;b&gt;&lt;u&gt;43&lt;/u&gt;&lt;/b&gt;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="2022年1月新番动画" scheme="http://yuc.wiki/tags/2022%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
     
   </entry>
   
