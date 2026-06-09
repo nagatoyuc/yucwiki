@@ -6,7 +6,7 @@
   <link href="http://yuc.wiki/atom.xml" rel="self"/>
   
   <link href="http://yuc.wiki/"/>
-  <updated>2026-05-16T06:53:46.830Z</updated>
+  <updated>2026-06-09T18:24:14.708Z</updated>
   <id>http://yuc.wiki/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yuc.wiki/new/"/>
     <id>http://yuc.wiki/new/</id>
     <published>2015-07-09T16:00:00.000Z</published>
-    <updated>2026-05-16T06:53:46.830Z</updated>
+    <updated>2026-06-09T18:24:14.708Z</updated>
     
     
       
@@ -43,11 +43,13 @@
 
 
 
-&lt;!--2026夏--&gt;
+
+
+&lt;!--2026秋--&gt;
 
 
 
-&lt;p class=&quot;future_intro&quot;&gt;&lt;b&gt;预计着陆　[夏季档]</summary>
+&lt;p class=&quot;future_intro&quot;&gt;&lt;b&gt;即将着陆　[秋季档]</summary>
         
       
     
@@ -91,7 +93,7 @@
     <title>長門番堂&lt;br&gt;Yuc&#39;s Anime List</title>
     <link href="http://yuc.wiki/index/"/>
     <id>http://yuc.wiki/index/</id>
-    <published>2026-03-01T16:00:00.000Z</published>
+    <published>2026-06-01T16:00:00.000Z</published>
     <updated>2025-12-01T16:00:00.000Z</updated>
     
     
@@ -252,6 +254,38 @@ table {
     
     
     <category term="2025年7月新番动画" scheme="http://yuc.wiki/tags/2025%E5%B9%B47%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2026年7月新番表</title>
+    <link href="http://yuc.wiki/202607/"/>
+    <id>http://yuc.wiki/202607/</id>
+    <published>2026-05-31T16:00:00.000Z</published>
+    <updated>2025-05-31T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;table border=&quot;1&quot;&gt;&lt;tr&gt;
+&lt;td&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="2026年7月新番动画" scheme="http://yuc.wiki/tags/2026%E5%B9%B47%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
     
   </entry>
   
@@ -632,39 +666,6 @@ table {
     
     
     <category term="2022年10月新番动画" scheme="http://yuc.wiki/tags/2022%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2022年7月新番表</title>
-    <link href="http://yuc.wiki/202207/"/>
-    <id>http://yuc.wiki/202207/</id>
-    <published>2022-05-31T16:00:00.000Z</published>
-    <updated>2022-06-30T16:00:00.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;title&gt;&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;p class=&quot;intro&quot;&gt;
-&lt;b&gt;夏季档&lt;/b&gt; 已确定 &lt;b&gt;&lt;u&gt;50&lt;/u&gt;&lt;/b&gt; 部新番动画&lt;br&gt;
-&lt;font</summary>
-        
-      
-    
-    
-    
-    
-    <category term="2022年7月新番动画" scheme="http://yuc.wiki/tags/2022%E5%B9%B47%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
     
   </entry>
   
