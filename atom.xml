@@ -6,7 +6,7 @@
   <link href="http://yuc.wiki/atom.xml" rel="self"/>
   
   <link href="http://yuc.wiki/"/>
-  <updated>2026-06-30T14:47:04.019Z</updated>
+  <updated>2026-07-01T11:47:30.359Z</updated>
   <id>http://yuc.wiki/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yuc.wiki/new/"/>
     <id>http://yuc.wiki/new/</id>
     <published>2015-07-09T16:00:00.000Z</published>
-    <updated>2026-06-30T14:47:04.019Z</updated>
+    <updated>2026-07-01T11:47:30.359Z</updated>
     
     
       
@@ -50,6 +50,43 @@
 
 
 &lt;p class=&quot;future_intro&quot;&gt;&lt;b&gt;即将着陆　[秋季档]</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日本动画电影-内地院线档期</title>
+    <link href="http://yuc.wiki/movie/"/>
+    <id>http://yuc.wiki/movie/</id>
+    <published>2019-07-07T16:00:00.000Z</published>
+    <updated>2026-07-01T11:28:20.009Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;    
+&lt;body&gt;
+
+
+
+&lt;p class=&quot;movie_intro&quot;&gt;&lt;b&gt;上映：&lt;/b&gt;&lt;/p&gt;&lt;br&gt;
+
+&lt;div&gt;
+
+
+
+&lt;div</summary>
         
       
     
@@ -152,46 +189,6 @@ table {
     
     
     <category term="2026年1月新番动画" scheme="http://yuc.wiki/tags/2026%E5%B9%B41%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>日本动画电影-内地院线档期</title>
-    <link href="http://yuc.wiki/movie/"/>
-    <id>http://yuc.wiki/movie/</id>
-    <published>2019-07-07T16:00:00.000Z</published>
-    <updated>2025-11-29T14:17:05.817Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;title&gt;&lt;/title&gt;
-&lt;/head&gt;    
-&lt;body&gt;
-
-
-
-&lt;p class=&quot;movie_intro&quot;&gt;&lt;b&gt;近期上映：&lt;/b&gt;&lt;/p&gt;&lt;br&gt;
-
-&lt;div&gt;
-
-
-
-
-
-
-&lt;div</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
