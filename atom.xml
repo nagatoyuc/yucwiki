@@ -6,7 +6,7 @@
   <link href="http://yuc.wiki/atom.xml" rel="self"/>
   
   <link href="http://yuc.wiki/"/>
-  <updated>2026-09-19T19:30:05.181Z</updated>
+  <updated>2026-09-20T18:50:24.545Z</updated>
   <id>http://yuc.wiki/</id>
   
   <author>
@@ -17,11 +17,44 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Movie/OVA/OAD/SP etc.</title>
+    <link href="http://yuc.wiki/sp/"/>
+    <id>http://yuc.wiki/sp/</id>
+    <published>2018-07-09T16:00:00.000Z</published>
+    <updated>2026-09-20T18:50:24.545Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta&gt;
+&lt;/head&gt;
+
+
+&lt;!--div&gt;
+
+
+
+&lt;div style=&quot;float:left&quot;&gt;
+  &lt;div class=&quot;div_sp&quot; &gt;&lt;img width=&quot;200px&quot; data-src=&quot;海报&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>新番卫星观测站</title>
     <link href="http://yuc.wiki/new/"/>
     <id>http://yuc.wiki/new/</id>
     <published>2015-07-09T16:00:00.000Z</published>
-    <updated>2026-09-19T19:30:05.181Z</updated>
+    <updated>2026-09-20T18:36:47.658Z</updated>
     
     
       
@@ -37,19 +70,13 @@
 
 
 
+&lt;!--2027冬--&gt;
 
 
+&lt;p class=&quot;future_intro&quot;&gt;&lt;b&gt;即将着陆　[冬季档] (2027年1月±)&lt;/b&gt;&lt;/p&gt;
 
 
-
-
-
-
-&lt;!--2026秋--&gt;
-
-
-
-&lt;p class=&quot;future_intro&quot;&gt;&lt;b&gt;即将着陆　[秋季档]</summary>
+&lt;div</summary>
         
       
     
@@ -120,39 +147,6 @@ table {
     
     
     <category term="2026年10月新番动画" scheme="http://yuc.wiki/tags/2026%E5%B9%B410%E6%9C%88%E6%96%B0%E7%95%AA%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Movie/OVA/OAD/SP etc.</title>
-    <link href="http://yuc.wiki/sp/"/>
-    <id>http://yuc.wiki/sp/</id>
-    <published>2018-07-09T16:00:00.000Z</published>
-    <updated>2026-08-04T17:51:34.681Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta&gt;
-&lt;/head&gt;
-
-
-&lt;!--div&gt;
-
-
-
-&lt;div style=&quot;float:left&quot;&gt;
-  &lt;div class=&quot;div_sp&quot; &gt;&lt;img width=&quot;200px&quot; data-src=&quot;海报&quot;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
